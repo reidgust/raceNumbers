@@ -28,17 +28,17 @@ The demo folder holds the versions used to create the app, don’t throw them ou
 
 To create the Competition numbers for elementary (same process for UBC Open)
 1) Run ElemHeatSheet.sh from a terminal inside the raceNumbers folder
-2) Wait for it to complete
+2) Wait for it to complete. It is generating "Heat Sheets.txt" (from "Heat Sheets.pdf") which you can change if you find subtle errors.
 3) Run ElemNumbers.sh
-4) Wait for it to complete
+4) Wait for it to complete. This generates the "Numbers.pdf" from "Heat Sheets.txt"
 
 ![](gifs/HowTo.gif)
 
 To create the AwardsSummary for Elementary.
 1) Run ElemReadResults.sh
-2) Wait for it to complete
+2) Wait for it to complete. This generates "Results.txt".
 3) Run ElemResultSum.sh
-4) Wait for it to complete
+4) Wait for it to complete. This generates "Result Summary.pdf"
 
 The processes are broken in two parts because that way you can change the .txt file created if there are any mistakes. Then you would just re-run the second command. An issue that is unavoidable for this implementation is that any athlete with two first names will have their second name become part of their school name. This must be fixed manually. Easiest to read the pdf and find these mistakes that way. 
 
