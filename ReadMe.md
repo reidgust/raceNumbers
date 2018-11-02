@@ -11,7 +11,8 @@ The results are summarized allowing us to count out the right number of ribbons 
 ![](gifs/ResultsSummary.gif)
 
 
-How-To:
+#How-To:
+
 Note: You may need to update your Java and get a JDK: 
 https://java.com/en/download/
 
@@ -26,7 +27,7 @@ In addition to the .jar and all the .sh files make sure the following files are 
 The demo folder holds the versions used to create the app, don’t throw them out. If you want to use them, copy and paste them into the folder containing the .jar file. 
 
 To create the Competition numbers for elementary (same process for UBC Open)
-1) Run ElemHeatSheet.sh
+1) Run ElemHeatSheet.sh from a terminal inside the raceNumbers folder
 2) Wait for it to complete
 3) Run ElemNumbers.sh
 4) Wait for it to complete
