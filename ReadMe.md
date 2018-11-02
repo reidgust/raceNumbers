@@ -2,10 +2,10 @@
 A Race Number Generator and Results Summarizer for the UBC Thunderberbirds track meets. 
 
 Race numbers are fully customized with each athletes heat and lane assignments so they know exactly where to go.
-![](gif/Numbers.gif)
+![](gifs/Numbers.gif)
 
 The results are summarized allowing us to count out the right number of ribbons at the end of the day. 
-![](gif/ResultsSummary.gif)
+![](gifs/ResultsSummary.gif)
 
 NOTE: 
 You may need to update your Java and get a JDK: 
@@ -25,7 +25,7 @@ Run ElemHeatSheet.sh
 Wait for it to complete
 Run ElemNumbers.sh
 Wait for it to complete
-![](gif/HowToRun.gif)
+![](gifs/HowToRun.gif)
 
 To create the AwardsSummary for Elementary.
 Run ElemReadResults.sh
@@ -35,7 +35,7 @@ Wait for it to complete
 
 The processes are broken in two parts because that way you can change the .txt file created if there are any mistakes. Then you would just re-run the second command. An issue that is unavoidable for this implementation is that any athlete with two first names will have their second name become part of their school name. This must be fixed manually. Easiest to read the pdf and find these mistakes that way. 
 
-![](gif/TwoFirstNames.gif)
+![](gifs/TwoFirstNames.gif)
 
 If there are compilation errors, consult the demo files and make sure that that the MeetPro report matches the format of the report you are using on things like the naming of events. Make sure they have the same structure, lots of the program hangs on how and where “Grade x” is displayed. 
 
