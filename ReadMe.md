@@ -3,7 +3,7 @@ A Race Number Generator and Results Summarizer for the UBC Thunderberbirds track
 
 Race numbers are fully customized with each athletes heat and lane assignments so they know exactly where to go.
 
-![](gifs/Numbers.gif)
+![](gifs/RaceNumbers.gif)
 
 
 The results are summarized allowing us to count out the right number of ribbons at the end of the day. 
@@ -31,7 +31,7 @@ To create the Competition numbers for elementary (same process for UBC Open)
 3) Run ElemNumbers.sh
 4) Wait for it to complete
 
-![](gifs/HowToRun.gif)
+![](gifs/HowTo.gif)
 
 To create the AwardsSummary for Elementary.
 1) Run ElemReadResults.sh

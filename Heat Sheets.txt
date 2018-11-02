@@ -1,0 +1,762 @@
+1;Emma;HERAS;4;false;Southpointe Academy;60m;false;5;3;100m;false;3;3;600m;false;1;11
+2;Arjun;GREWAL;4;true;Southpointe Academy;60m;false;6;2;Shot Put;true;1;3
+3;Adam;MACKAY;3;true;Southpointe Academy;60m;false;3;3;Long Jump;true;1;28;Shot Put;true;1;18
+4;Charles;ALVAREZ;3;true;Southpointe Academy;60m;false;4;5;100m;false;6;1;600m;false;1;10
+5;Yazmine;GREWAL;7;false;Southpointe Academy;100m;false;4;5;Long Jump;true;1;3;Shot Put;true;1;19
+6;Charleson;CAO;7;true;Southpointe Academy;100m;false;1;4;800m;false;1;3;Long Jump;true;1;14
+7;Ariel;MULLAN;6;false;Southpointe Academy;200m;false;3;4;Long Jump;true;1;10;Shot Put;true;1;8
+8;Henry;LIN;5;true;Southpointe Academy;60m;false;1;6;100m;false;3;2;Long Jump;true;1;12
+9;Monroe;JOHAL;3;false;Southpointe Academy;60m;false;4;3;Long Jump;true;1;10;Shot Put;true;1;13
+10;Sandeep;GILL;7;true;Southpointe Academy;100m;false;2;3;Long Jump;true;1;5
+11;Alaina;ZHANG;7;false;Southpointe Academy;100m;false;1;7;800m;false;1;6;1,200m;false;1;9
+12;Alex;GARAGAN;5;true;Southpointe Academy;100m;false;5;5;600m;false;2;1;1,000m;false;1;11
+13;Emily;HARLAND;3;false;Southpointe Academy;60m;false;1;6;Long Jump;true;1;2;Shot Put;true;1;12
+14;Charlie;SUNG;3;true;Southpointe Academy;60m;false;6;8;600m;false;1;7;Shot Put;true;1;5
+15;Jusman;KOLAR;4;true;Southpointe Academy;60m;false;4;8;100m;false;6;3;600m;false;2;12
+16;Isabelle;WIEBE;4;false;Southpointe Academy;60m;false;2;4;Long Jump;true;1;16;Shot Put;true;1;14
+17;Mariam;GEHLEN;5;false;Southpointe Academy;60m;false;2;5;100m;false;2;1;Shot Put;true;1;29
+18;Ranvir;OTAL;7;false;Southpointe Academy;100m;false;2;8;Long Jump;true;1;12;Shot Put;true;1;17
+19;Adrianna;JESKE;3;false;Southpointe Academy;60m;false;8;2;100m;false;2;5;Shot Put;true;1;32
+20;Nathan;CHEUNG;5;true;Southpointe Academy;60m;false;4;4;100m;false;1;1;Long Jump;true;1;25
+21;Olivia;ALVAREZ;5;false;Southpointe Academy;600m;false;2;13;Long Jump;true;1;28;Shot Put;true;1;6
+22;Samantha;GREEN;5;false;Southpointe Academy;60m;false;3;1;100m;false;1;3;Long Jump;true;1;24
+23;Mina;STEFANOVIC;3;false;Southpointe Academy;1,000m;false;1;9
+24;Merina;LAU;5;false;Southpointe Academy;60m;false;4;5;600m;false;2;14;1,000m;false;1;14
+25;Aidan;WANG;4;true;Southpointe Academy;60m;false;3;6;100m;false;1;8;600m;false;1;10
+26;Derek;NGUYEN;3;true;Southpointe Academy;60m;false;6;5;100m;false;2;5;600m;false;2;14
+27;Taryn;NAHAL;7;false;Southpointe Academy;200m;false;2;6;Long Jump;true;1;6;Shot Put;true;1;9
+28;Elliott;HOUGHTON;5;true;Southpointe Academy;60m;false;4;3;100m;false;5;2;600m;false;2;7
+29;Noah;DEVJI;6;true;Southpointe Academy;100m;false;2;6;200m;false;2;6;Long Jump;true;1;5
+30;Mahdiya;RASHID;5;false;Southpointe Academy;600m;false;1;2;High Jump;true;1;2;Long Jump;true;1;4
+31;Sydney;HARLAND;6;false;Southpointe Academy;100m;false;4;8;200m;false;5;6;Long Jump;true;1;7
+32;Jacob;ZHANG;7;true;Southpointe Academy;100m;false;4;7;Long Jump;true;1;25;Shot Put;true;1;7
+33;Justin;CHU;4;true;Southpointe Academy;60m;false;3;2;100m;false;5;4;600m;false;1;11
+34;Eva;WESTERINGH;3;false;Southpointe Academy;60m;false;2;4;100m;false;3;2;600m;false;1;9
+35;Ethan;LEE;3;true;Southpointe Academy;60m;false;1;8;100m;false;1;6;600m;false;2;3
+36;Sara;CROY;7;false;Southpointe Academy;200m;false;3;3;Long Jump;true;1;21;Shot Put;true;1;5
+37;Ismail;GEHLEN;6;true;Southpointe Academy;100m;false;1;2;200m;false;3;7
+38;Ariella;BATTY;3;false;Southpointe Academy;100m;false;6;3;Long Jump;true;1;6;Shot Put;true;1;16
+39;Trenton;LAU;7;true;Southpointe Academy;300m;false;1;5;800m;false;1;2;1,200m;false;1;4
+40;Hudson;KIM;5;true;Southpointe Academy;60m;false;3;7;Long Jump;true;1;2
+41;Jaxon;KUSEL;3;true;Southpointe Academy;60m;false;1;3;100m;false;2;7
+42;Derek;ENCARNACION;3;true;Southpointe Academy;60m;false;2;1;100m;false;4;1;600m;false;1;11
+43;Roshin;SANGHA;3;true;Southpointe Academy;60m;false;6;7;600m;false;1;12;Long Jump;true;1;9
+44;Anka;STEFANOVIC;6;false;Southpointe Academy;100m;false;4;5;200m;false;2;4;800m;false;2;8
+45;Olivia;WIEBE;3;false;Southpointe Academy;60m;false;7;4;600m;false;1;6;Long Jump;true;1;24
+46;Caitlyn;FOWLER;5;false;Southpointe Academy;600m;false;1;3;Long Jump;true;1;20;Shot Put;true;1;20
+47;Bronwyn;HODGINS;6;false;Southpointe Academy;200m;false;3;2;800m;false;2;7;Long Jump;true;1;8
+48;Hannah;RASHID;7;false;Southpointe Academy;200m;false;5;7;300m;false;1;5;800m;false;2;9
+49;Nathan;WESTERINGH;6;true;Southpointe Academy;100m;false;2;4;200m;false;4;2;Long Jump;true;1;19
+50;Jacob;BATTY;5;true;Southpointe Academy;100m;false;2;7;600m;false;1;7;Long Jump;true;1;19
+51;Armaan;MINHAS;7;true;Southpointe Academy;100m;false;4;3;200m;false;2;5;Long Jump;true;1;10
+52;Sophia;FEDORUK;3;false;Southpointe Academy;60m;false;6;1;600m;false;2;1;Shot Put;true;1;29
+53;Matthew;YU;4;true;Collingwood School;60m;false;5;2;100m;false;7;4;600m;false;1;2;High Jump;true;1;14;Long Jump;true;1;14;Shot Put;true;1;22
+54;Alexander;YU;6;true;Collingwood School;100m;false;3;2;200m;false;2;4;300m;false;2;2;Long Jump;true;1;24
+55;Jonah;RICKARD;4;true;Collingwood School;60m;false;2;5;100m;false;4;6;600m;false;1;6;1,000m;false;1;8;High Jump;true;1;16;Shot Put;true;1;9
+56;Carter;MCLEAN;3;true;Collingwood School;60m;false;3;1;100m;false;1;7;600m;false;1;1;Shot Put;true;1;28
+57;Hudson;SEEMAN;6;true;Collingwood School;100m;false;4;3;High Jump;true;1;9;Long Jump;true;1;27;Shot Put;true;1;21
+59;Neil;ZHAO;4;true;Collingwood School;60m;false;6;4;100m;false;3;8;Long Jump;true;1;25
+60;Zoe;COUTURE;4;false;Collingwood School;60m;false;4;1;100m;false;2;4;Long Jump;true;1;8;Shot Put;true;1;16
+61;Merhan;MANSOUR;3;false;Collingwood School;60m;false;4;2;100m;false;4;7;600m;false;1;8;Long Jump;true;1;11;Shot Put;true;1;34
+62;Ellysaiya;HADDAD;3;false;Collingwood School;60m;false;3;5;100m;false;4;6;Long Jump;true;1;8
+63;Easton;BRUCE;3;true;Collingwood School;60m;false;2;5;100m;false;1;4;Long Jump;true;1;10;Shot Put;true;1;20
+64;Nathan;NG;3;true;Collingwood School;60m;false;6;4;100m;false;5;8;600m;false;1;3;Shot Put;true;1;27
+65;Bennett;SPEED;4;true;Collingwood School;600m;false;1;13;Long Jump;true;1;9;Shot Put;true;1;11
+66;Zachary;JIMENEZ;3;true;Collingwood School;60m;false;1;4;100m;false;6;6;600m;false;2;10
+67;Vance;DAVIES;4;true;Collingwood School;60m;false;4;1;100m;false;2;7;600m;false;2;10;Shot Put;true;1;6
+68;Vivian;LANG;4;false;Collingwood School;60m;false;3;4;600m;false;1;4;High Jump;true;1;13;Long Jump;true;1;22
+69;Carlos;LOVELL;4;true;Collingwood School;60m;false;4;5;100m;false;1;2;Long Jump;true;1;26
+70;Julia;KNIGHT;3;false;Collingwood School;60m;false;3;3;100m;false;6;5;Long Jump;true;1;32;Shot Put;true;1;25
+71;Alison;SCHROEDER;3;false;Collingwood School;60m;false;4;1;100m;false;2;3;Long Jump;true;1;29;Shot Put;true;1;24
+72;Quinn;CHRISTOPHER;6;true;Collingwood School;100m;false;4;4;200m;false;1;6;300m;false;1;2;Long Jump;true;1;22
+73;Niko;PANAGIOTOPOULOS;4;true;Collingwood School;60m;false;1;4;100m;false;7;2;600m;false;1;8;Long Jump;true;1;6
+74;Ewan;ESPLEY-AULT;3;true;Collingwood School;60m;false;2;8;100m;false;5;3;600m;false;2;1;1,000m;false;1;17;Long Jump;true;1;25;Shot Put;true;1;10
+75;Andrew;FERBER;7;true;Collingwood School;800m;false;1;1
+76;Chase;ANTINORI;3;true;Collingwood School;60m;false;4;6;100m;false;4;8;Shot Put;true;1;3
+77;Xavier;ATMORE;3;true;Collingwood School;60m;false;4;2;100m;false;3;3;Long Jump;true;1;26;Shot Put;true;1;9
+78;Mason;FIORVENTO;6;true;Collingwood School;100m;false;1;5;200m;false;4;5;800m;false;1;14;1,200m;false;1;5;Long Jump;true;1;14
+79;Arman;NABI;3;true;Collingwood School;60m;false;3;8;100m;false;1;5;600m;false;2;5
+80;Kiana;MAVAI;3;false;Collingwood School;60m;false;1;4;100m;false;2;8;600m;false;1;2;Long Jump;true;1;20
+81;Henry;BREWSTER;7;true;Collingwood School;100m;false;3;3;200m;false;3;6;800m;false;2;4;1,200m;false;1;3;Long Jump;true;1;9
+82;Beckett;JIMENEZ;3;true;Collingwood School;60m;false;5;8;100m;false;2;2;600m;false;2;11;Shot Put;true;1;4
+83;Ewan;ROBERTSON;4;true;Collingwood School;60m;false;1;2;100m;false;1;4;600m;false;1;7;1,000m;false;1;18
+84;Joelle;COHEN;4;false;Collingwood School;60m;false;5;4;High Jump;true;1;5;Long Jump;true;1;31;Shot Put;true;1;6
+85;Declan;MCLEOD;3;true;Collingwood School;60m;false;3;7;100m;false;4;3;Long Jump;true;1;5;Shot Put;true;1;17
+86;Jude;ESPLEY-AULT;3;true;Collingwood School;60m;false;5;4;100m;false;6;7;600m;false;2;6;1,000m;false;1;13;Long Jump;true;1;27;Shot Put;true;1;2
+87;Annette;LUCAS;3;false;Collingwood School;60m;false;2;7;100m;false;6;6;600m;false;1;11;Long Jump;true;1;1
+89;Tryton;HADDAD;3;true;Collingwood School;60m;false;5;6;100m;false;1;1;Long Jump;true;1;22;Shot Put;true;1;7
+90;Chase;HROMYK;4;true;Collingwood School;60m;false;6;1;1,000m;false;1;19;High Jump;true;1;7;Long Jump;true;1;23
+92;Luli;MACFARLANE;7;false;Blessed Sacrament School;1,200m;false;1;6
+98;Karlinha;URRUTIA;3;false;Blessed Sacrament School;60m;false;8;5
+100;Lucy;SHERWOOD;3;false;Blessed Sacrament School;60m;false;4;8
+101;Elinor;LINDHOLM;3;false;Blessed Sacrament School;60m;false;5;5
+107;Naiim;MOTEVASELAN;5;true;Blessed Sacrament School;High Jump;true;1;14
+108;Lorenzo;MALLARI;3;true;Blessed Sacrament School;60m;false;3;6
+111;Alyssa;DURANA;5;false;Blessed Sacrament School;High Jump;true;1;23
+118;Christopher;KURNICKI;3;true;Blessed Sacrament School;Shot Put;true;1;25
+119;Valentina;VALENTI;3;false;Blessed Sacrament School;60m;false;2;1
+126;Sara;ARANGUREN;3;false;Victoria Blessed Sacrament School;60m;false;1;2
+131;Beckett;DI TOMASO;5;true;Blessed Sacrament School;High Jump;true;1;6
+136;Arianne;ROTH;3;false;Blessed Sacrament School;60m;false;1;5
+139;Rafael;GOMEZ;3;true;Blessed Sacrament School;100m;false;2;4;Long Jump;true;1;7
+141;Olivia;JALANDOON;5;false;Blessed Sacrament School;High Jump;true;1;3
+143;Alexander;SIDDIQUI;3;true;Blessed Sacrament School;100m;false;2;3
+162;Delila;ZILIC;7;false;Blessed Sacrament School;800m;false;1;2
+170;Eila;BARON;3;false;Blessed Sacrament School;High Jump;true;1;22
+173;Allison;SUSSEY;3;false;Blessed Sacrament School;60m;false;5;4
+174;Brayden;YEUNG;7;true;Stratford Hall School;800m;false;1;5;Long Jump;true;1;20
+175;Jacob;AU;3;true;Stratford Hall School;100m;false;1;3;1,000m;false;1;19
+176;Chereen;TING;3;false;Stratford Hall School;60m;false;6;8;100m;false;5;7
+177;Kyan;CHUI-LEONG;5;true;Stratford Hall School;60m;false;3;2;600m;false;2;8;High Jump;true;1;3;Long Jump;true;1;22
+178;Alizée;MACKENZIE;3;false;Stratford Hall School;60m;false;2;5;High Jump;true;1;10;Long Jump;true;1;33;Shot Put;true;1;18
+179;Sienna;BOSA;3;false;Stratford Hall School;60m;false;8;8;100m;false;3;6;Long Jump;true;1;34
+180;Kaleb;ADATIA;4;true;Stratford Hall School;100m;false;7;3;600m;false;1;4;1,000m;false;1;2
+181;Jordan;CHAN;6;true;Stratford Hall School;100m;false;2;1;200m;false;3;6
+182;Caleb;JANG;6;true;Stratford Hall School;Shot Put;true;1;10
+183;Radhika;ASSANIE;7;false;Stratford Hall School;200m;false;1;4
+184;Clara;TSAI;4;false;Stratford Hall School;600m;false;2;5;1,000m;false;1;5
+185;Kai;SCHMIDT;6;true;Stratford Hall School;200m;false;2;7;High Jump;true;1;5;Long Jump;true;1;20;Shot Put;true;1;19
+186;Salix;ZULKOSKEY;3;true;Stratford Hall School;Long Jump;true;1;4
+187;Gianni;BOSA;4;true;Stratford Hall School;60m;false;3;1;100m;false;1;5;High Jump;true;1;23;Long Jump;true;1;22
+188;Daniel;KLECKNER;5;true;Stratford Hall School;100m;false;2;2;Shot Put;true;1;3
+189;Robin;BURKES;3;false;Stratford Hall School;600m;false;2;8;1,000m;false;1;1;High Jump;true;1;5
+190;Mykah;ADATIA;3;true;Stratford Hall School;60m;false;1;6;100m;false;4;4;600m;false;2;13;High Jump;true;1;8
+191;Rachel;ANAND;3;false;Stratford Hall School;60m;false;6;2;100m;false;1;2
+192;Sam;KATES;5;true;Stratford Hall School;600m;false;2;2;1,000m;false;1;16;Shot Put;true;1;6
+193;Tess;RAWA-KNIGHTON;5;false;Stratford Hall School;High Jump;true;1;8
+194;Meghan;WULFF;3;false;Stratford Hall School;600m;false;2;3;1,000m;false;1;10
+195;Nolan;JAMES;4;true;Stratford Hall School;600m;false;2;13;1,000m;false;1;10
+196;Veniece;TSENG;6;false;Stratford Hall School;800m;false;1;2;Long Jump;true;1;9
+197;Chloe;WONG;4;false;Stratford Hall School;60m;false;3;5;100m;false;5;1;600m;false;2;12;High Jump;true;1;14
+198;George;CALLAGHAN;3;true;Stratford Hall School;600m;false;1;16;1,000m;false;1;2;High Jump;true;1;13;Long Jump;true;1;13;Shot Put;true;1;26
+199;Narissa;GILLIANI;7;true;Stratford Hall School;Long Jump;true;1;4;Shot Put;true;1;2
+200;Wesley;TSUI;7;true;Stratford Hall School;200m;false;3;3;800m;false;1;8;Long Jump;true;1;15
+201;Josh;GRAVISTIN;3;true;Stratford Hall School;60m;false;5;3;600m;false;1;13;Long Jump;true;1;14;Shot Put;true;1;8
+202;Lukas;BELL-BUCHNER;3;true;Stratford Hall School;Shot Put;true;1;13
+203;James;TREBILCOCK;4;true;Stratford Hall School;60m;false;4;3;High Jump;true;1;12;Long Jump;true;1;21;Shot Put;true;1;7
+204;Elizabeth;MACKINNON;3;false;Stratford Hall School;High Jump;true;1;14;Shot Put;true;1;15
+205;Ava;CHOW;6;false;Stratford Hall School;100m;false;7;7;High Jump;true;1;13;Shot Put;true;1;17
+206;Gabriel;GEROGE;6;true;Stratford Hall School;200m;false;1;4;800m;false;1;4;Long Jump;true;1;8
+207;Chloe;WAN;4;false;Stratford Hall School;60m;false;6;8
+208;Liyana;AHVAZI;4;false;Stratford Hall School;100m;false;2;6;High Jump;true;1;23;Long Jump;true;1;6;Shot Put;true;1;10
+209;Quinn;BROWN;3;true;Stratford Hall School;60m;false;2;4;100m;false;6;5
+210;Emily;BROOK;7;false;Stratford Hall School;100m;false;1;3;200m;false;1;1;Long Jump;true;1;9
+211;Grace;YOUNG;7;false;Stratford Hall School;100m;false;3;4;Long Jump;true;1;8
+212;Thomas;MAYNE;5;true;Stratford Hall School;60m;false;3;6;100m;false;4;4;600m;false;1;4;Shot Put;true;1;8
+213;Jayin;VERMA;3;true;Stratford Hall School;60m;false;7;3;100m;false;3;8
+214;Rhea;SUNDERJI;5;false;Stratford Hall School;60m;false;2;7;100m;false;1;6;High Jump;true;1;11
+215;Nimrit;KHERA;4;false;Stratford Hall School;600m;false;2;7;1,000m;false;1;9
+216;Rohin;DHALIWAL;6;true;Stratford Hall School;High Jump;true;1;1;Shot Put;true;1;22
+217;Bryelle;WONG;7;false;Stratford Hall School;100m;false;5;8;200m;false;3;6
+218;Madeleine;BABIC;5;false;Stratford Hall School;60m;false;6;6;Shot Put;true;1;9
+219;Kenji;KAMACHI;7;true;Stratford Hall School;Shot Put;true;1;9
+220;Zoë;BUITELAAR;3;false;Stratford Hall School;600m;false;2;4;1,000m;false;1;5
+221;Ava;BHURA;4;false;Stratford Hall School;High Jump;true;1;20;Long Jump;true;1;26
+222;Kiera;HO;6;false;Stratford Hall School;100m;false;4;7;200m;false;5;2;Long Jump;true;1;24
+223;Kenzie;MAY;5;false;Stratford Hall School;60m;false;1;2;100m;false;2;2;600m;false;2;10;Long Jump;true;1;12
+224;Zach;BROOK;5;true;Stratford Hall School;60m;false;4;7;100m;false;5;7;High Jump;true;1;7;Long Jump;true;1;4
+225;Thomas;WESTLAKE;7;true;Stratford Hall School;100m;false;1;2
+226;Daphne;MENG;7;false;Stratford Hall School;100m;false;1;4;800m;false;1;5;1,200m;false;1;13;Shot Put;true;1;4
+227;Dante;MARINELLI;6;true;Stratford Hall School;100m;false;5;3;High Jump;true;1;11;Shot Put;true;1;8
+228;Elan;BREGER;7;false;Stratford Hall School;High Jump;true;1;6;Shot Put;true;1;11
+229;Natalie;LILLICO;6;false;Stratford Hall School;200m;false;5;1
+230;Sameer;ASSANIE;4;true;Stratford Hall School;High Jump;true;1;9;Long Jump;true;1;1;Shot Put;true;1;20
+231;Victoria;HAUSSMAN;7;false;Stratford Hall School;200m;false;1;8;High Jump;true;1;4;Long Jump;true;1;17;Shot Put;true;1;13
+232;Kate;CHAN;6;false;Stratford Hall School;Shot Put;true;1;9
+233;Simon;GUNASEKERA;7;true;Stratford Hall School;800m;false;1;4;1,200m;false;1;1;Long Jump;true;1;2;Shot Put;true;1;13
+234;Georgia;WONG;3;false;Stratford Hall School;60m;false;8;6;100m;false;6;1;High Jump;true;1;1;Long Jump;true;1;26
+235;Nhân;VELDHUIS;3;true;Stratford Hall School;High Jump;true;1;1
+236;Aria;MAGNUSSON;3;false;Stratford Hall School;Shot Put;true;1;26
+237;Quinn;WELLS;5;false;Stratford Hall School;Shot Put;true;1;7
+238;Josh;SYER-LITTLE;6;true;Stratford Hall School;100m;false;3;5;High Jump;true;1;3
+239;Makaella;SOON;4;false;Stratford Hall School;60m;false;1;8;Long Jump;true;1;11
+240;Misha;MOROZOV;7;true;Stratford Hall School;Shot Put;true;1;8
+241;Cedar;ZULKOSKEY;7;true;Stratford Hall School;Long Jump;true;1;17
+242;Ezaaz;KARIM;6;true;Stratford Hall School;200m;false;1;1;800m;false;1;8;1,200m;false;1;12
+243;Aria;SARAN;6;false;Stratford Hall School;100m;false;1;1;200m;false;5;4;Long Jump;true;1;25
+244;Ceto;WONG;4;true;Stratford Hall School;Shot Put;true;1;14
+245;Zohya;KASSAM;5;false;Stratford Hall School;100m;false;3;1
+246;Hailey;XI;5;false;Stratford Hall School;600m;false;1;13;High Jump;true;1;21;Long Jump;true;1;6;Shot Put;true;1;19
+247;Sophia;JAMAL;4;false;Stratford Hall School;Shot Put;true;1;12
+248;Riley;TANG;6;true;Stratford Hall School;Long Jump;true;1;7
+249;Jonathan;COLEMAN;3;true;Stratford Hall School;1,000m;false;1;14;High Jump;true;1;7;Long Jump;true;1;6;Shot Put;true;1;1
+250;Callista;DO;4;false;Stratford Hall School;Shot Put;true;1;21
+251;Jacob;MANN;5;true;Stratford Hall School;High Jump;true;1;20
+252;Clare;AITKEN;4;false;Stratford Hall School;100m;false;3;4;High Jump;true;1;6;Long Jump;true;1;7
+253;Matthew;NANN;4;true;Stratford Hall School;Shot Put;true;1;12
+254;Kylie;AU;7;false;Stratford Hall School;800m;false;1;10;1,200m;false;1;11
+255;Akshay;GREWAL;3;true;Stratford Hall School;High Jump;true;1;3
+256;Kaitlyn;CHAN;7;true;Stratford Hall School;Long Jump;true;1;5;Shot Put;true;1;4
+257;Jasper;LAU;4;true;Stratford Hall School;600m;false;1;5;1,000m;false;1;11
+258;Natasha;MANJI;6;false;Stratford Hall School;100m;false;4;3;200m;false;4;2;High Jump;true;1;7;Shot Put;true;1;6
+259;Josh;HAUGHIAN;6;true;Stratford Hall School;Shot Put;true;1;24
+260;Dana;YAMASHIRO;7;false;Stratford Hall School;200m;false;4;3;Shot Put;true;1;8
+261;Kaniel;JACOB-CROSS;7;true;Stratford Hall School;100m;false;2;1;200m;false;3;2;High Jump;true;1;5;Long Jump;true;1;24
+262;Aleks;MAYNE;5;false;Stratford Hall School;600m;false;2;3;1,000m;false;1;9;Long Jump;true;1;23
+263;Seth;PRESS;5;true;Stratford Hall School;1,000m;false;1;5;High Jump;true;1;19;Long Jump;true;1;17
+264;Faraaz;KARIM;4;true;Stratford Hall School;60m;false;5;1;100m;false;3;4;High Jump;true;1;10;Long Jump;true;1;12
+265;Shay;SOO;3;true;Stratford Hall School;600m;false;1;9;1,000m;false;1;18
+266;Marcus;CHAN;6;true;Stratford Hall School;100m;false;6;6;Long Jump;true;1;13
+267;Karys;MAY;3;false;Stratford Hall School;600m;false;2;2;1,000m;false;1;12;High Jump;true;1;9;Shot Put;true;1;19
+268;Ethan;SOON;7;true;Stratford Hall School;100m;false;2;8;200m;false;1;5
+269;Ryan;YEUNG;6;false;Stratford Hall School;100m;false;1;3;800m;false;1;10;1,200m;false;1;5;Long Jump;true;1;26
+270;Luke;WILKIE;7;true;Stratford Hall School;100m;false;2;6;200m;false;2;6;High Jump;true;1;6;Shot Put;true;1;5
+271;Miles;WONG;6;true;Stratford Hall School;200m;false;4;3;800m;false;1;13;Long Jump;true;1;23;Shot Put;true;1;18
+272;Ruby;PETERSON;6;false;Stratford Hall School;Shot Put;true;1;23
+273;Zara;TAI;3;false;Crofton House School;60m;false;5;6;Shot Put;true;1;20
+274;Angela;XU;4;false;Crofton House School;60m;false;6;6;100m;false;3;2;Shot Put;true;1;20
+275;Sienna;GIBSON;6;false;Crofton House School;300m;false;2;6;800m;false;1;7;Long Jump;true;1;19;Shot Put;true;1;3
+276;Krista;KRUK;4;false;Crofton House School;100m;false;6;3;600m;false;1;1;Long Jump;true;1;19
+277;Laila;ABRAHAMS;6;false;Crofton House School;100m;false;8;4;200m;false;4;8;High Jump;true;1;6
+278;Emily;FRANKE;7;false;Crofton House School;200m;false;2;5;300m;false;2;3;800m;false;1;11;High Jump;true;1;5;Long Jump;true;1;14;Shot Put;true;1;7
+279;Olivia;CHAN;4;false;Crofton House School;60m;false;1;6;600m;false;2;10;Shot Put;true;1;1
+280;Gemma;COGHLAN;3;false;Crofton House School;60m;false;3;7;100m;false;5;5;Long Jump;true;1;16;Shot Put;true;1;4
+281;Amelie;STEIN;6;false;Crofton House School;100m;false;7;1;200m;false;3;7;High Jump;true;1;18
+282;Erin;CHENG;6;false;Crofton House School;200m;false;4;3;Shot Put;true;1;21
+283;Sabrina;CHIO;7;false;Crofton House School;200m;false;5;2;300m;false;2;2;Long Jump;true;1;5;Shot Put;true;1;10
+284;Serena;STEINSON;3;false;Crofton House School;60m;false;8;7;100m;false;1;1;Long Jump;true;1;28;Shot Put;true;1;33
+285;Zoya;GILL;3;false;Crofton House School;60m;false;8;4;600m;false;1;4;Shot Put;true;1;28
+286;Aleeza;RAJWANI;3;false;Crofton House School;60m;false;7;1;600m;false;2;6;High Jump;true;1;2;Long Jump;true;1;22;Shot Put;true;1;3
+287;Tara;SANGRA;7;false;Crofton House School;100m;false;3;8;200m;false;5;4
+288;Yasmin;KHAKESH;4;false;Crofton House School;60m;false;1;4;100m;false;2;7;High Jump;true;1;18;Long Jump;true;1;4
+289;Megan;NG;7;false;Crofton House School;100m;false;4;4;200m;false;3;7;Shot Put;true;1;21
+290;Caroline;GRAHAM;6;false;Crofton House School;100m;false;1;6;200m;false;2;2;Shot Put;true;1;10
+291;Natalie;FRANKE;4;false;Crofton House School;100m;false;2;2;1,000m;false;1;4;High Jump;true;1;7;Long Jump;true;1;21
+292;Natasha;POON;7;false;Crofton House School;200m;false;3;4;800m;false;2;8
+293;Mika;SHOJI;6;false;Crofton House School;100m;false;6;7;200m;false;3;6;800m;false;2;4;High Jump;true;1;4
+294;Hannah;DAVID;6;false;Crofton House School;100m;false;7;5;Shot Put;true;1;20
+295;Jenna;JAFFER;5;false;Crofton House School;600m;false;1;10;1,000m;false;1;15;Long Jump;true;1;16
+296;Elizabeth;HARDCASTLE;3;false;Crofton House School;100m;false;2;6;600m;false;2;9;High Jump;true;1;6;Long Jump;true;1;7
+297;Priya;KAPOOR;5;false;Crofton House School;60m;false;3;6;600m;false;1;11;High Jump;true;1;17
+298;Maya;SWARTZ;7;false;Crofton House School;200m;false;1;2;High Jump;true;1;1
+299;Abbey;SECCOMBE;4;false;Crofton House School;60m;false;5;2;100m;false;1;8
+300;Kaliana;RENTZ;3;false;Crofton House School;60m;false;5;2;1,000m;false;1;8;Long Jump;true;1;4;Shot Put;true;1;35
+301;Maya;DATTANI;7;false;Crofton House School;100m;false;4;7;Long Jump;true;1;25
+302;Emma;GAN;7;false;Crofton House School;100m;false;3;5;200m;false;2;8;300m;false;2;7;High Jump;true;1;7;Shot Put;true;1;15
+303;Lauren;SOOBRIAN;7;false;Crofton House School;300m;false;1;7;800m;false;2;6;1,200m;false;1;5
+304;Rachel;WEI;5;false;Crofton House School;60m;false;2;8;Shot Put;true;1;23
+305;Jennifer;LAI;7;false;Crofton House School;100m;false;2;6;200m;false;4;1;Long Jump;true;1;20
+306;Zoe;TALLENTIRE;6;false;Crofton House School;300m;false;2;4;1,200m;false;1;1
+307;Kate;MCDONALD;4;false;Crofton House School;100m;false;4;7;1,000m;false;1;1
+308;Emily;CAO;6;false;Crofton House School;100m;false;2;4;300m;false;1;6;800m;false;1;8;High Jump;true;1;16
+309;Aliza;HLUS;4;false;Crofton House School;100m;false;6;4;600m;false;2;4;Long Jump;true;1;9
+310;Kristen;LEE;5;false;Crofton House School;60m;false;6;2;100m;false;4;6
+311;Arianne;FONG;7;false;Crofton House School;100m;false;5;6;200m;false;4;4;Shot Put;true;1;18
+312;Megan;HO;4;false;Crofton House School;60m;false;5;6;100m;false;3;5
+313;Lily;MARPLES;3;false;Crofton House School;60m;false;3;4;100m;false;3;8;Shot Put;true;1;30
+314;Sarah;LAW;5;false;Crofton House School;60m;false;5;2;High Jump;true;1;20;Long Jump;true;1;11;Shot Put;true;1;30
+315;Jenna;TERRY;6;false;Crofton House School;100m;false;1;5;200m;false;2;3;Shot Put;true;1;2
+316;Marese;FLETCHER;6;false;Crofton House School;100m;false;2;2;200m;false;2;6;Shot Put;true;1;24
+317;Madison;CHOW;5;false;Crofton House School;60m;false;1;1;600m;false;2;4;High Jump;true;1;12;Long Jump;true;1;27;Shot Put;true;1;10
+318;Emily;GENG;4;false;Crofton House School;60m;false;3;6;100m;false;4;6
+319;Eloise;WILLIAMS-WALSHE;5;false;Crofton House School;60m;false;5;3;600m;false;1;6;High Jump;true;1;7;Shot Put;true;1;26
+320;Anna;KRUK;6;false;Crofton House School;100m;false;1;2;300m;false;2;7;1,200m;false;1;4;High Jump;true;1;3
+321;Tiffany;PANG;6;false;Crofton House School;800m;false;1;5;Long Jump;true;1;20
+322;Ivy;LIN;4;false;Crofton House School;60m;false;4;3;600m;false;1;12;High Jump;true;1;4
+323;Emily;SOOBRIAN;5;false;Crofton House School;600m;false;1;1;1,000m;false;1;10;Long Jump;true;1;8;Shot Put;true;1;22
+324;Tasha;CHEUNG;7;false;Crofton House School;100m;false;4;8;200m;false;3;5;Shot Put;true;1;16
+325;Alice;SHEN;6;false;Crofton House School;100m;false;5;5;200m;false;2;7;High Jump;true;1;14;Shot Put;true;1;16
+326;Michaela;NEGRAEFF;6;false;Crofton House School;200m;false;2;1;800m;false;1;4;Long Jump;true;1;12
+327;Ava;CARDEY;5;false;Crofton House School;60m;false;6;5;100m;false;3;3;600m;false;2;6;High Jump;true;1;4
+328;Sadie;WATT;7;false;Crofton House School;100m;false;4;3;200m;false;2;3;Shot Put;true;1;3
+329;Sophia;MAGYAR;3;false;Crofton House School;60m;false;3;2;100m;false;1;5;High Jump;true;1;13
+330;Elisabeth;LAU;7;false;Crofton House School;100m;false;5;5;200m;false;4;7
+331;Lexie;HLUS;7;false;Crofton House School;100m;false;3;2;200m;false;3;1;300m;false;1;3
+332;Rayya;ABOULHOSN;4;false;Crofton House School;60m;false;4;2;100m;false;3;6;High Jump;true;1;22;Shot Put;true;1;15
+333;Hayley;MAH;4;false;Crofton House School;60m;false;3;2;100m;false;2;5
+334;Sarah;CHOW;7;false;Crofton House School;200m;false;1;7;800m;false;2;5;Long Jump;true;1;7
+335;Ginger;WORLAND;6;false;Crofton House School;300m;false;2;5;1,200m;false;1;7
+336;Vanessa;VELINOFF;7;false;Crofton House School;300m;false;1;4;800m;false;1;1;1,200m;false;1;10;High Jump;true;1;2;Shot Put;true;1;6
+337;Olivia;WATSON;5;false;Crofton House School;100m;false;4;3;600m;false;2;1;High Jump;true;1;5
+338;Julia;BORODOW;5;false;Crofton House School;100m;false;5;2;600m;false;1;4;Shot Put;true;1;14
+339;Elspeth;LENNOX;4;false;Crofton House School;60m;false;6;2;100m;false;5;3
+340;Amryn;TAKHAR;5;false;Crofton House School;60m;false;4;3;600m;false;2;11;Long Jump;true;1;21;Shot Put;true;1;24
+341;Chloe;VAN SCHALKWYK;5;false;Crofton House School;600m;false;2;8;1,000m;false;1;12;High Jump;true;1;18
+342;Zoe;MAK;6;false;Crofton House School;200m;false;5;8;800m;false;2;1;High Jump;true;1;10
+343;Jemma;BAIRD;6;false;Crofton House School;100m;false;5;8;High Jump;true;1;2;Shot Put;true;1;18
+344;Jessica;HE;3;false;Crofton House School;60m;false;6;4;100m;false;5;4
+345;Joy;LIN;5;false;Crofton House School;60m;false;5;7;Shot Put;true;1;8
+346;Catherine;HWANG;6;false;Crofton House School;300m;false;1;4;800m;false;1;9
+347;Issie;VANDENBERG;5;false;Crofton House School;60m;false;6;7;600m;false;2;2;High Jump;true;1;16;Long Jump;true;1;17;Shot Put;true;1;1
+348;Salsabil;MIYANJI;4;false;Crofton House School;60m;false;2;5;100m;false;2;1;Shot Put;true;1;19
+349;Joy;ZHANG;5;false;Crofton House School;60m;false;2;3;Shot Put;true;1;18
+350;Lyllah;SULEMAN;6;false;Crofton House School;100m;false;6;8;200m;false;1;5
+351;Ella;HEED;4;false;Crofton House School;60m;false;1;5;100m;false;1;2
+352;Noelle;TERRY;6;false;Crofton House School;100m;false;2;7;200m;false;4;4;300m;false;2;3;Shot Put;true;1;7
+353;Bronte;COGHLAN;6;false;Crofton House School;100m;false;4;4;200m;false;4;5;Long Jump;true;1;11
+354;Emory;MACDONALD;4;false;Crofton House School;60m;false;1;1;100m;false;1;1;High Jump;true;1;16;Long Jump;true;1;1;Shot Put;true;1;2
+355;Jemma;YOUNG;5;false;Crofton House School;100m;false;2;7;600m;false;1;5;1,000m;false;1;7;High Jump;true;1;22;Shot Put;true;1;27
+356;Victoria;WANG;3;false;Crofton House School;60m;false;7;3;Shot Put;true;1;2
+357;Sadie;TAYLOR-MACDONALD;3;false;Crofton House School;60m;false;1;7;100m;false;1;4;Long Jump;true;1;19
+358;Avani;BAINS;7;false;Crofton House School;100m;false;4;1;200m;false;1;3;800m;false;1;4;High Jump;true;1;10
+359;Mahdiya;MIYANJI;3;false;Crofton House School;60m;false;1;3;100m;false;1;3;Shot Put;true;1;14
+360;Michelle;LIU;6;false;Crofton House School;100m;false;2;1;Long Jump;true;1;13
+361;Rayna;DHALIWAL;5;false;Crofton House School;100m;false;2;4;High Jump;true;1;19;Shot Put;true;1;21
+362;Isabel;SCHMON;4;false;Crofton House School;60m;false;2;6;100m;false;5;2;600m;false;1;13;High Jump;true;1;15
+363;Samantha;CHONG;4;false;Crofton House School;100m;false;4;3;600m;false;2;2;High Jump;true;1;1;Long Jump;true;1;20
+364;Amelia;KRISTEN;7;false;Crofton House School;100m;false;1;8;300m;false;2;4;High Jump;true;1;11;Shot Put;true;1;20
+365;Kendra;JACKSON;7;false;Crofton House School;100m;false;3;7;200m;false;4;2;Shot Put;true;1;12
+366;Emily;LIU;5;false;Crofton House School;100m;false;3;5;600m;false;1;7;High Jump;true;1;1
+367;Tina;ZOU;5;false;Crofton House School;60m;false;2;6;Shot Put;true;1;13
+368;Amina;BASRA;4;false;Crofton House School;60m;false;3;8;100m;false;3;1;Shot Put;true;1;7
+369;Alexis;HING;3;false;Crofton House School;60m;false;4;7;100m;false;5;3
+370;Nicy;WANG;7;false;Crofton House School;200m;false;5;6;300m;false;1;6;800m;false;1;3;Shot Put;true;1;22
+371;Rosie;MACDONALD;6;false;Crofton House School;100m;false;3;6;200m;false;4;1;800m;false;2;3;High Jump;true;1;11;Shot Put;true;1;13
+372;Olive;MACDONALD;5;false;Crofton House School;100m;false;1;4;1,000m;false;1;5;High Jump;true;1;9
+373;Rachel;DENG;7;false;Crofton House School;100m;false;3;3;200m;false;1;5;Long Jump;true;1;10
+374;Brooke;NUYEN;6;false;Ramsay Crofton House School;100m;false;6;5;200m;false;3;5;800m;false;1;6;Long Jump;true;1;22
+375;Vanessa;PANG;3;false;Crofton House School;60m;false;5;1;1,000m;false;1;4;High Jump;true;1;26;Shot Put;true;1;6
+376;Rachel;VONGVILAY;3;false;Crofton House School;60m;false;4;4;100m;false;5;2;Shot Put;true;1;36
+377;Sterling;NUYEN;3;false;Ramsay Crofton House School;60m;false;4;6;100m;false;6;2
+378;Jenna;LOUIE;7;false;York House School;100m;false;2;5;High Jump;true;1;8;Long Jump;true;1;15
+379;Mackenzie;FERNBACK;6;false;York House School;100m;false;7;2;Shot Put;true;1;27
+380;Niamh;KALMAR;4;false;York House School;60m;false;4;7;Long Jump;true;1;29;Shot Put;true;1;4
+381;Zara;NAVARISKAR;7;true;York House School;Long Jump;true;1;18;Shot Put;true;1;11
+382;Alina;YUAN;3;false;York House School;100m;false;4;3;Long Jump;true;1;13;Shot Put;true;1;37
+383;Kristin;JOHNSON;3;false;York House School;60m;false;7;7;High Jump;true;1;21;Long Jump;true;1;31
+384;Rose;HOUSSIAN;3;false;York House School;100m;false;6;4;1,000m;false;1;7;High Jump;true;1;18
+385;Grace;GORDON;4;false;York House School;60m;false;1;2;600m;false;2;6
+386;Tori;AKSMANOVIC;7;false;York House School;800m;false;1;7;1,200m;false;1;1
+387;Anita;TANG;6;false;York House School;100m;false;6;1;High Jump;true;1;8;Shot Put;true;1;30
+388;Isabelle;QUINLAN;4;false;York House School;100m;false;5;6;1,000m;false;1;8
+389;Hannah;LEW;5;false;York House School;60m;false;3;5;100m;false;2;6
+390;Caitlyn;CHAN;4;false;York House School;60m;false;6;3;100m;false;3;7
+391;Zoya;REEBYE;4;false;York House School;60m;false;4;4;600m;false;2;1;High Jump;true;1;17;Shot Put;true;1;18
+392;Emily;JEKUBIK;4;false;York House School;60m;false;5;5;High Jump;true;1;3;Long Jump;true;1;27
+393;Julia;SHERRY;4;false;York House School;60m;false;3;1;100m;false;1;5;High Jump;true;1;10
+394;Alycia;LO;7;true;York House School;Long Jump;true;1;11;Shot Put;true;1;14
+395;Olympia;ACUNA;5;false;York House School;60m;false;5;6;100m;false;2;5
+396;Kaitlin;NG;3;false;York House School;60m;false;4;5;100m;false;4;4;High Jump;true;1;19
+397;Jamie;ECKMAN;3;false;York House School;60m;false;6;6;Long Jump;true;1;9
+398;Zyra;SIDDOO;4;false;York House School;60m;false;2;7;100m;false;5;5;High Jump;true;1;12
+399;Coco;KESSELMAN;7;false;York House School;100m;false;4;2;200m;false;5;1;800m;false;2;10
+400;Annabelle;LANG;4;false;York House School;60m;false;4;6;600m;false;1;8;Long Jump;true;1;17;Shot Put;true;1;13
+401;Ryan;POZER;3;false;York House School;600m;false;2;12;Shot Put;true;1;21
+402;Hailey;WONG;3;false;York House School;60m;false;5;7;Shot Put;true;1;10
+403;Ava;GILL;6;false;York House School;100m;false;5;6;Long Jump;true;1;3
+404;Victoria;HUNGERFORD;4;false;York House School;60m;false;3;7;High Jump;true;1;8
+405;Eloise;KLASSEN;6;false;York House School;100m;false;6;6;800m;false;1;1;High Jump;true;1;9
+406;Ella;JOHNSTON;7;false;York House School;100m;false;1;6;200m;false;2;1
+407;Kiera;CAMP;4;false;York House School;60m;false;5;8;Shot Put;true;1;22
+408;Keisha;NKUFO;6;false;York House School;100m;false;3;3;200m;false;3;1;Long Jump;true;1;29;Shot Put;true;1;14
+409;Ailish;O'CONNOR;3;false;York House School;100m;false;2;4;Long Jump;true;1;25;Shot Put;true;1;27
+410;Julia;LECKY;5;false;York House School;100m;false;3;7;600m;false;2;12;Long Jump;true;1;1
+411;Livie;GRAVISTIN;5;false;York House School;100m;false;2;8;600m;false;2;7;High Jump;true;1;6;Long Jump;true;1;9
+412;Sena;FONG;6;false;York House School;100m;false;6;3;200m;false;5;7
+413;Jessica;DULAY;6;false;York House School;100m;false;7;6;200m;false;1;3;Shot Put;true;1;22
+414;Megan;TSOI;7;false;York House School;100m;false;5;1;800m;false;2;3
+415;Sydney;WITTENBERG;3;false;York House School;60m;false;2;3;100m;false;2;2
+416;Angela;HU;7;false;York House School;100m;false;5;2;Long Jump;true;1;18
+417;Lauren;CHAN;4;false;York House School;60m;false;6;4;Long Jump;true;1;5;Shot Put;true;1;8
+418;Isabella;WANG;6;false;York House School;100m;false;3;4;Shot Put;true;1;26
+419;Isla;VANRY;5;false;York House School;60m;false;6;3;100m;false;4;5;Long Jump;true;1;18
+420;Miranda;RIGNEY;6;false;York House School;100m;false;8;3;200m;false;1;1;Shot Put;true;1;15
+421;Ava;MANYAL;3;false;York House School;60m;false;8;1;100m;false;1;7
+422;Kaia;HARVEY;3;false;York House School;100m;false;1;6;High Jump;true;1;16;Long Jump;true;1;35
+423;Logan;SANDERS;3;false;York House School;60m;false;6;7;100m;false;3;3
+424;Emily;HUDSON;6;false;York House School;100m;false;8;6;High Jump;true;1;15
+425;Sofia;VARMA-VITUG;5;false;York House School;60m;false;6;4;100m;false;3;2;Long Jump;true;1;2
+426;Carmen;CAMP;7;true;York House School;Long Jump;true;1;28
+427;Hailey;PANSEGRAU;4;false;York House School;60m;false;6;1;100m;false;1;6;600m;false;1;7
+428;Georgia;RIGNEY;7;false;York House School;100m;false;2;3;200m;false;4;6;Long Jump;true;1;16
+429;Chloe;PHILLIPS;7;false;York House School;100m;false;1;5;200m;false;2;4;Long Jump;true;1;23
+430;Peyton;CLARKE;4;false;York House School;600m;false;1;5;Long Jump;true;1;3
+431;Sophia;CHIU;4;false;York House School;100m;false;1;3;600m;false;1;3;Shot Put;true;1;11
+432;Jenna;LIANG;3;false;York House School;1,000m;false;1;6;High Jump;true;1;11;Long Jump;true;1;18
+433;Savannah;RAMANATHAN;3;false;York House School;60m;false;7;8;High Jump;true;1;24;Shot Put;true;1;7
+434;Berkeley;BARNHOLDEN;3;false;York House School;High Jump;true;1;23;Shot Put;true;1;22
+435;Nicole;WEBB;5;false;York House School;600m;false;2;9;High Jump;true;1;15;Long Jump;true;1;13
+436;Ruby;FORSYTH;5;false;York House School;60m;false;4;6;1,000m;false;1;1
+437;Madeleine;WARDLE;6;false;York House School;800m;false;2;9;1,200m;false;1;3;High Jump;true;1;17
+438;Olivia;GOODWYN;6;false;York House School;100m;false;3;1;Long Jump;true;1;21;Shot Put;true;1;5
+439;Julia;FISH;7;false;York House School;100m;false;2;7;800m;false;2;2
+440;Sophia;SUTHERLAND;6;false;York House School;100m;false;5;3;800m;false;2;5
+441;Olivia;PHILLIPS;5;false;York House School;60m;false;1;8;100m;false;2;3
+442;Sophia;MANYAL;5;false;York House School;60m;false;3;2;Long Jump;true;1;26;Shot Put;true;1;17
+443;Simran;KHANGURA;7;true;York House School;Long Jump;true;1;16;Shot Put;true;1;28
+444;Mia;ADANG;3;false;York House School;60m;false;7;5;Shot Put;true;1;31
+445;Kate;GANNON;5;false;York House School;60m;false;5;4;100m;false;4;7;High Jump;true;1;10;Shot Put;true;1;25
+446;Jaime;ARMSTRONG;3;false;York House School;60m;false;5;8;600m;false;1;10;High Jump;true;1;4;Shot Put;true;1;11
+447;Julia;MCCONVILLE;4;false;York House School;60m;false;2;8;100m;false;4;2
+448;Isla;MOUNTEER;3;false;York House School;600m;false;1;3;1,000m;false;1;3
+449;Aman;DONALDSON-MCFARLANE;7;false;York House School;100m;false;3;6;800m;false;2;1;High Jump;true;1;9;Long Jump;true;1;1
+450;Daphne;LO;6;false;York House School;100m;false;8;5;Shot Put;true;1;19
+451;Madison;XU;3;false;York House School;60m;false;3;1;100m;false;5;6;600m;false;2;11;High Jump;true;1;3
+452;Kayla;LOUIE;4;false;York House School;60m;false;4;8;100m;false;5;7;High Jump;true;1;19;Long Jump;true;1;28
+453;Kaya;ADANG;4;false;York House School;100m;false;1;7;600m;false;2;3;1,000m;false;1;10
+454;Lily;MINDELL;3;false;York House School;100m;false;4;8;600m;false;2;7;High Jump;true;1;15;Shot Put;true;1;1
+455;Sherilyn;YUNG;5;false;York House School;100m;false;1;8;1,000m;false;1;6;Shot Put;true;1;11
+456;Kai;MARTLAND;6;true;Vancouver Thunderbirds;1,200m;false;1;9;High Jump;true;1;7
+457;Luc;PRIMEAU;5;true;Vancouver Thunderbirds;100m;false;1;3;600m;false;1;6;High Jump;true;1;11;Long Jump;true;1;14;Shot Put;true;1;10
+458;Maya;BAECHLER;7;false;Vancouver Thunderbirds;1,200m;false;1;7
+459;Antonio;SIU;6;true;Vancouver College;100m;false;5;6;200m;false;4;6
+460;Magnus;BALAKRISHNAN;3;true;Vancouver College;60m;false;4;7;100m;false;5;6;1,000m;false;1;6;Long Jump;true;1;19
+461;Matthew;LEE;7;true;Vancouver College;100m;false;1;8;200m;false;3;5;1,200m;false;1;5;High Jump;true;1;15;Long Jump;true;1;7
+462;Braulio;SIU;6;true;Vancouver College;200m;false;3;2;Long Jump;true;1;9
+463;Chris;TOUNTAS;5;true;Vancouver College;60m;false;1;2;Shot Put;true;1;16
+464;Sebastian;SHERRY;6;true;Vancouver College;100m;false;4;6;200m;false;3;3;300m;false;1;6
+465;Lucas;GONZALES;5;true;Vancouver College;60m;false;1;7;100m;false;4;6;High Jump;true;1;10;Long Jump;true;1;20
+466;Thomas;MCKEE;4;true;Vancouver College;600m;false;2;5;1,000m;false;1;3
+467;Hugo;CHEUK;6;true;Vancouver College;100m;false;6;2
+468;Cameron;LU;7;true;Vancouver College;100m;false;4;2;High Jump;true;1;14;Long Jump;true;1;23
+469;Dexter;JUNG;4;true;Vancouver College;60m;false;2;7;100m;false;6;4
+470;Timothy;TRINH;4;true;Vancouver College;60m;false;2;4;100m;false;2;8;High Jump;true;1;17;Long Jump;true;1;4
+471;Ryan;CHIU;7;true;Vancouver College;100m;false;1;5;200m;false;1;7;300m;false;1;4;Long Jump;true;1;26
+472;Liam;DICKSON;7;true;Vancouver College;800m;false;2;3
+473;Andres;GARCIA;5;true;Vancouver College;60m;false;1;3;100m;false;5;3;High Jump;true;1;15;Long Jump;true;1;16
+474;Cael;FONG;4;true;Vancouver College;60m;false;3;5;100m;false;2;1;Long Jump;true;1;19
+475;Nicholas;KOLB;6;true;Vancouver College;100m;false;1;1;High Jump;true;1;12;Long Jump;true;1;6
+476;Justin;WONG;7;true;Vancouver College;100m;false;3;5;800m;false;1;9;1,200m;false;1;10
+477;Christian;VON TREBRA;7;true;Vancouver College;800m;false;2;7
+478;Austin;BEESE;5;true;Vancouver College;60m;false;2;4;100m;false;1;7;600m;false;2;10;1,000m;false;1;10;Long Jump;true;1;26
+479;Magnus;HELGASON;7;true;Vancouver College;100m;false;1;1;High Jump;true;1;3;Long Jump;true;1;18
+480;Keon;BERNETT;6;true;Vancouver College;100m;false;2;5;Shot Put;true;1;17
+481;Herschel;JOHAL;7;true;Vancouver College;Shot Put;true;1;12
+482;Aidan;KAN;3;true;Vancouver College;60m;false;1;5;100m;false;3;1
+483;Tommy;WANG;3;true;Vancouver College;60m;false;7;6;100m;false;1;8;600m;false;2;8
+484;Cyrus;HORNER;6;true;Vancouver College;100m;false;4;5;300m;false;1;7;1,200m;false;1;4
+485;Nicholas;ZADRA;7;true;Vancouver College;Shot Put;true;1;4
+486;Marcellus;DENTE;4;true;Vancouver College;100m;false;1;1;High Jump;true;1;2
+487;Liam;MUIR;7;true;Vancouver College;100m;false;2;2;High Jump;true;1;2
+488;Jack;MACFARLANE;5;true;Vancouver College;600m;false;1;3;1,000m;false;1;7
+489;Nguyen;TRAN;5;true;Vancouver College;60m;false;2;5;100m;false;5;6;Long Jump;true;1;21
+490;Daniel;AU;4;true;Vancouver College;60m;false;2;2;100m;false;7;7
+491;David;ZHANG;4;true;Vancouver College;Shot Put;true;1;19
+492;Mattias;KALAW;5;true;Vancouver College;Shot Put;true;1;14
+493;Lucasz;MCISAAC;3;true;Vancouver College;60m;false;3;2;100m;false;6;2;600m;false;2;4;1,000m;false;1;5;Long Jump;true;1;1
+494;Matthias;KENTON;7;true;Vancouver College;100m;false;3;6;Long Jump;true;1;16
+495;William;MCISAAC;6;true;Vancouver College;100m;false;1;6;High Jump;true;1;2;Long Jump;true;1;26;Shot Put;true;1;25
+496;Jacob;DE VELA;5;true;Vancouver College;60m;false;1;5;100m;false;1;5
+497;Tyler;WILSON;7;false;Ocean Athletics;1,200m;false;1;1
+498;William;O'CALLAGHAN;6;true;Fraser Academy;Long Jump;true;1;3;Shot Put;true;1;6
+499;Will;AHRENS;4;true;Fraser Academy;100m;false;5;2
+500;Elle;RADU;7;false;Fraser Academy;800m;false;2;4;1,200m;false;1;3
+501;Jacob;BRODERICK;4;true;Fraser Academy;100m;false;2;4
+502;Griffin;SAUVE;4;true;Fraser Academy;Long Jump;true;1;11;Shot Put;true;1;16
+503;Kingsley;RADU;7;true;Fraser Academy;Long Jump;true;1;24
+504;Nicholas;LEUNG;6;true;Fraser Academy;Shot Put;true;1;15
+505;Abbey;HARDY;7;false;Fraser Academy;300m;false;2;5;800m;false;1;9
+506;Caleb;DAROSA;6;true;Fraser Academy;100m;false;5;4;800m;false;1;10;Long Jump;true;1;2
+507;Henry;SCUDAMORE;5;true;Fraser Academy;1,000m;false;1;9;Long Jump;true;1;5
+508;Henry;MERCIER;4;true;Fraser Academy;100m;false;5;6
+509;Zoe;WHITTAKER;7;true;Fraser Academy;Long Jump;true;1;23
+510;Harry;SCUDAMORE;5;true;Fraser Academy;100m;false;4;2;Long Jump;true;1;6
+511;Kayleb;BHAGARIA;5;true;Fraser Academy;Long Jump;true;1;27
+512;Dimitri;LAJEUNESSE;3;true;Fraser Academy;60m;false;1;7;Long Jump;true;1;3;Shot Put;true;1;14
+513;Brynn;ISSAR;7;true;Fraser Academy;Long Jump;true;1;15
+514;Ren;MASUTANI;4;true;Fraser Academy;100m;false;3;6;Long Jump;true;1;16
+515;Joely;DURAND;7;true;Fraser Academy;Long Jump;true;1;25
+516;Pelham;STATTON;6;true;Fraser Academy;100m;false;1;3;Shot Put;true;1;3
+517;Talia;LORINCZ;7;false;Fraser Academy;800m;false;1;12;1,200m;false;1;12
+518;Lou;COUVALL;6;true;Fraser Academy;Shot Put;true;1;16
+519;Connor;EDWARDS;4;true;Fraser Academy;100m;false;2;3
+520;Mackenzie;PAUL;7;true;Fraser Academy;Long Jump;true;1;12
+521;Jack;FORNELLI;4;true;Fraser Academy;1,000m;false;1;4;Shot Put;true;1;8
+522;Maxwell;REINHEIMER;5;true;Fraser Academy;Shot Put;true;1;2
+523;Ethan;YEE;5;true;Fraser Academy;100m;false;1;8
+524;Rachael;COLLINS;7;true;Fraser Academy;Long Jump;true;1;10
+525;Sam;DUNN;6;true;Fraser Academy;100m;false;3;1;Long Jump;true;1;28;Shot Put;true;1;7
+526;Emerson;BLUNDELL;6;false;Fraser Academy;100m;false;4;6;200m;false;4;7;1,200m;false;1;2
+527;Kendry;TRAVERS;7;false;Fraser Academy;100m;false;1;1;200m;false;3;2;Long Jump;true;1;2
+528;Micah;CRAN;6;false;Fraser Academy;100m;false;8;2
+529;Logan;MORRISON;6;true;Fraser Academy;Shot Put;true;1;5
+530;Alex;BOETTCHER;4;true;Fraser Academy;100m;false;1;3;1,000m;false;1;5;Shot Put;true;1;25
+531;Sarah;DUTCYVICH;7;true;Fraser Academy;Long Jump;true;1;14;Shot Put;true;1;5
+532;Sophie;NICHOLSON;7;true;Fraser Academy;Long Jump;true;1;18
+533;Shay;KATZ;6;true;Fraser Academy;800m;false;1;15;1,200m;false;1;3
+534;Lauchlin;MACKINNON;5;true;Fraser Academy;100m;false;2;5;Long Jump;true;1;23
+535;Casey;JAMES;7;true;Fraser Academy;100m;false;2;5;200m;false;3;7;Long Jump;true;1;22
+536;Asher;COWAN;5;true;Fraser Academy;Long Jump;true;1;13
+537;Olivia;GLASSMAN;7;true;Fraser Academy;Long Jump;true;1;10;Shot Put;true;1;28
+538;Chantelle;GRANT;6;false;Fraser Academy;100m;false;7;4;Long Jump;true;1;15
+539;Annika;BJORKLUND;7;false;Fraser Academy;800m;false;1;8;1,200m;false;1;4
+540;Sam;PESKELEWIS;6;true;Fraser Academy;100m;false;4;7
+541;Twyla;RAFFE-JEVINE;7;false;Fraser Academy;800m;false;2;11;1,200m;false;1;8
+542;Matthew;SELBY;7;true;Fraser Academy;100m;false;2;7;200m;false;1;3;Long Jump;true;1;19
+543;ava;JACKSON;7;false;corpus christi;100m;false;3;1;200m;false;2;2;300m;false;2;6;Long Jump;true;1;13
+544;Doris;YUAN;5;false;St. John's School;60m;false;5;5;100m;false;1;5;Shot Put;true;1;4
+545;Leo;CHUNG;7;true;St. John's School;100m;false;1;3;200m;false;2;3;300m;false;1;6
+546;Tyler;DUNLAP;4;true;St. John's School;60m;false;1;6;High Jump;true;1;20;Long Jump;true;1;10;Shot Put;true;1;17
+547;Amber;WONG;7;false;St. John's School;100m;false;4;6;200m;false;5;3
+548;Isla;BETTERIDGE;6;false;St. John's School;100m;false;8;7;200m;false;1;6;300m;false;1;3
+549;Noah;BETTERIDGE;4;true;St. John's School;60m;false;1;8;100m;false;4;4;Long Jump;true;1;18
+550;Nate;ROESSLER;3;true;St. John's School;60m;false;6;2;100m;false;3;6
+551;Andrea;LIU;5;false;St. John's School;60m;false;1;3
+552;Purab;CHEEMA;3;true;St. John's School;60m;false;2;6;100m;false;5;2;600m;false;1;2;High Jump;true;1;11;Long Jump;true;1;31
+553;Caleb;FITCH;4;true;St. John's School;60m;false;1;3;100m;false;4;5;600m;false;2;9;1,000m;false;1;1;Long Jump;true;1;3
+554;Anya;CHADHA;6;false;St. John's School;100m;false;1;7;200m;false;1;4;300m;false;1;5
+555;Eva;HUANG;4;false;St. John's School;60m;false;2;1;100m;false;6;2;Long Jump;true;1;13;Shot Put;true;1;9
+556;Emily;LINTS;3;false;St. John's School;60m;false;2;8;100m;false;3;7;1,000m;false;1;13
+557;Ella;CHOW;7;false;St. John's School;100m;false;1;2;200m;false;4;5
+558;Thomas;TAPLIN;4;true;St. John's School;60m;false;3;3
+559;Sebastian;STEPNOSKI;3;true;St. John's School;100m;false;6;4;Shot Put;true;1;16
+560;Douglas;CASSIDY;3;true;St. John's School;60m;false;2;3;1,000m;false;1;12
+561;Jerry;XU;4;true;St. John's School;100m;false;3;7
+562;Cruz;KUPECZ;3;true;St. John's School;High Jump;true;1;4;Long Jump;true;1;32
+563;Jonathan;WARD;7;true;St. John's School;High Jump;true;1;10;Long Jump;true;1;17;Shot Put;true;1;14
+564;Tom;CHEN;3;true;St. John's School;60m;false;2;2;Shot Put;true;1;19
+565;Tanvir;MUNDRA;3;false;St. John's School;60m;false;7;6;100m;false;2;7;600m;false;2;10;Long Jump;true;1;27;Shot Put;true;1;23
+566;Shaughny;GLEIG;6;false;St. John's School;100m;false;7;3;200m;false;1;2
+567;Emily;MAH;7;false;St. John's School;100m;false;5;4;200m;false;5;5;300m;false;1;8;Long Jump;true;1;22
+568;Ariane;MAINWARING;3;false;St. John's School;100m;false;3;4
+569;Reet;CHEEMA;3;false;St. John's School;60m;false;1;1;High Jump;true;1;8;Long Jump;true;1;14
+570;Nathek;SANDHU;3;true;St. John's School;600m;false;2;7;Long Jump;true;1;20
+571;Maria;PENG;5;false;St. John's School;100m;false;1;2;600m;false;1;9;High Jump;true;1;14;Long Jump;true;1;29
+572;Colin;CHAN;7;true;St. John's School;100m;false;3;4;200m;false;1;2;High Jump;true;1;8
+573;Mika;SHADFORTH;5;false;St. John's School;60m;false;2;4;100m;false;4;2;High Jump;true;1;24;Long Jump;true;1;19
+574;Chloe;LIANG;6;false;St. John's School;100m;false;5;2;200m;false;4;6;High Jump;true;1;12;Long Jump;true;1;14;Shot Put;true;1;12
+575;Tyler;CHU;5;true;St. John's School;60m;false;3;3;100m;false;1;2;600m;false;2;5
+576;Joyce;HO;6;false;St. John's School;200m;false;5;5;High Jump;true;1;5;Long Jump;true;1;27
+577;Frank;YEH;7;true;St. John's School;High Jump;true;1;9;Long Jump;true;1;21;Shot Put;true;1;3
+578;Justin;LIU;6;true;St. John's School;100m;false;1;4;200m;false;2;1;300m;false;1;3;Long Jump;true;1;17
+579;Sasha;STREU;7;false;St. John's School;100m;false;2;2;Shot Put;true;1;1
+580;Minnie;HUANG;3;false;St. John's School;60m;false;7;2;100m;false;4;5
+581;Kieron;BHATT;3;true;St. John's School;60m;false;4;1;100m;false;6;8;Long Jump;true;1;30
+582;Taylor;POSNIKOFF;4;false;West Point Grey Academy;600m;false;1;10;High Jump;true;1;21;Shot Put;true;1;17
+583;Emma;COONFER;6;false;West Point Grey Academy;200m;false;2;5;Long Jump;true;1;6
+584;Kaylee;TSE;5;false;West Point Grey Academy;60m;false;2;2;100m;false;3;4;Shot Put;true;1;2
+585;Ava;COONFER;6;false;West Point Grey Academy;100m;false;4;2
+586;Chelsea;HU;7;false;West Point Grey Academy;100m;false;5;7;300m;false;1;2;1,200m;false;1;2
+587;Lily;HOWARD;4;false;West Point Grey Academy;100m;false;6;1;600m;false;2;13;1,000m;false;1;7;High Jump;true;1;2
+588;Riley;BRAILSFORD;5;true;West Point Grey Academy;600m;false;1;1;1,000m;false;1;8
+589;Esme;MACKAY;3;false;West Point Grey Academy;High Jump;true;1;7;Long Jump;true;1;30
+590;Frances;NAKHUDA;4;false;West Point Grey Academy;60m;false;1;7;High Jump;true;1;11;Shot Put;true;1;23
+591;Ava;DERBAWKA;6;false;West Point Grey Academy;100m;false;8;1;Shot Put;true;1;1
+592;Alec;HUGHES;3;true;West Point Grey Academy;60m;false;5;7;100m;false;6;3
+593;Echo;BOURBONNAIS;5;false;West Point Grey Academy;60m;false;1;7;1,000m;false;1;8;Shot Put;true;1;12
+594;Heston;HAWKSWORTH;5;true;West Point Grey Academy;60m;false;1;4;High Jump;true;1;13
+595;Leighton;AUSTIN;3;true;West Point Grey Academy;600m;false;1;15;1,000m;false;1;15;Long Jump;true;1;29;Shot Put;true;1;6
+596;Andrew;LI;5;true;West Point Grey Academy;High Jump;true;1;5;Long Jump;true;1;3
+597;Michael;ADAMS;6;true;West Point Grey Academy;100m;false;5;2;200m;false;1;2;800m;false;1;12;High Jump;true;1;4
+598;Brady;ANDREWS;5;true;West Point Grey Academy;1,000m;false;1;6;Shot Put;true;1;5
+599;Wesley;JONES;6;true;West Point Grey Academy;200m;false;1;3;High Jump;true;1;6;Long Jump;true;1;25
+600;Owen;DAWKINS;4;true;West Point Grey Academy;High Jump;true;1;21;Long Jump;true;1;28
+601;Brady;FANG;4;true;West Point Grey Academy;Long Jump;true;1;8;Shot Put;true;1;2
+602;Lauren;MILAU;6;false;West Point Grey Academy;100m;false;3;7;200m;false;1;7;High Jump;true;1;1
+603;Catherine;WOOD;5;false;West Point Grey Academy;60m;false;4;2;100m;false;3;6
+604;Matthew;CAMPBELL;3;true;West Point Grey Academy;1,000m;false;1;11;High Jump;true;1;15;Long Jump;true;1;2
+605;Cailtin;LEUNG;6;false;West Point Grey Academy;100m;false;6;2;Long Jump;true;1;17
+606;Adrian;LU;3;true;West Point Grey Academy;600m;false;2;9;High Jump;true;1;5;Shot Put;true;1;15
+607;Sheree;LI;4;false;West Point Grey Academy;600m;false;1;6
+608;Annie;WAGNER;3;false;West Point Grey Academy;60m;false;1;8;Shot Put;true;1;8
+609;Victoria;SUN;3;false;West Point Grey Academy;60m;false;6;5;High Jump;true;1;20;Shot Put;true;1;17
+610;Charlie;BOWLES;4;true;West Point Grey Academy;60m;false;5;8;100m;false;6;5;600m;false;2;6;High Jump;true;1;11
+611;Bella;WOOD;6;false;West Point Grey Academy;100m;false;2;5;Long Jump;true;1;1
+612;Emily;ZHAO;5;false;West Point Grey Academy;60m;false;3;3;100m;false;1;1;Long Jump;true;1;25
+613;Clara;PLUNKETT;4;false;West Point Grey Academy;100m;false;4;1;600m;false;2;11;1,000m;false;1;2
+614;Cole;TIMKO;5;true;West Point Grey Academy;600m;false;2;11;1,000m;false;1;1
+615;Emma;ARANDA;6;false;West Point Grey Academy;100m;false;5;4;Long Jump;true;1;23;Shot Put;true;1;25
+616;Lucas;TOWNSEND;6;true;West Point Grey Academy;200m;false;2;5;1,200m;false;1;11;Shot Put;true;1;20
+617;Kayden;SANGARA;4;true;West Point Grey Academy;60m;false;3;8;100m;false;4;3;600m;false;1;9;1,000m;false;1;16
+618;Jack;GREEEN;5;true;West Point Grey Academy;60m;false;2;8;100m;false;4;1;High Jump;true;1;22
+619;Maccallum;JANZEN;5;true;West Point Grey Academy;60m;false;3;4;100m;false;4;5;Long Jump;true;1;18
+620;Luc;PERROT;3;true;West Point Grey Academy;60m;false;6;3;100m;false;2;1;1,000m;false;1;10
+621;Beck;PASPALAS;6;true;West Point Grey Academy;100m;false;2;2;Long Jump;true;1;15;Shot Put;true;1;13
+622;Sienna;FETIGAN;4;false;West Point Grey Academy;600m;false;2;9;Shot Put;true;1;3
+623;Austin;ANDREWS;3;true;West Point Grey Academy;60m;false;4;3;Shot Put;true;1;11
+624;Sarah;NAZIF;4;false;West Point Grey Academy;High Jump;true;1;24;Long Jump;true;1;33
+625;Sahil;VARSHNEY;7;true;West Point Grey Academy;100m;false;2;4;200m;false;3;4
+626;Sage;DOUGLAS;4;false;West Point Grey Academy;60m;false;2;2;100m;false;4;4;Long Jump;true;1;30
+627;Tristan;POINT;4;true;West Point Grey Academy;60m;false;5;7;Shot Put;true;1;4
+628;Naiya;SALMAN;5;false;West Point Grey Academy;60m;false;1;6;100m;false;1;7
+629;Isabella;SANIDAS;5;false;West Point Grey Academy;60m;false;3;7;100m;false;5;6
+630;Angela;ZHOU;6;false;West Point Grey Academy;100m;false;2;6;Long Jump;true;1;2
+631;Quentin;JONES;4;true;West Point Grey Academy;60m;false;6;6;100m;false;3;2;Long Jump;true;1;5
+632;Danika;SUNG;7;true;West Point Grey Academy;Long Jump;true;1;21
+633;Emma;LO;6;false;West Point Grey Academy;100m;false;2;3;Long Jump;true;1;4
+634;Willow;BOURBONNAIS;5;false;West Point Grey Academy;60m;false;4;7;100m;false;5;4;600m;false;1;12
+635;Owen;FRANK;4;true;West Point Grey Academy;60m;false;4;2;100m;false;2;6
+636;John;CACOS;6;true;West Point Grey Academy;100m;false;2;7
+637;Krish;VARSHNEY;5;true;West Point Grey Academy;600m;false;2;4;1,000m;false;1;3
+638;Sofia;SLINGERLAND;5;false;West Point Grey Academy;1,000m;false;1;4;Long Jump;true;1;22
+639;Eva;WANG;7;true;West Point Grey Academy;Long Jump;true;1;7;Shot Put;true;1;3
+640;Luke;WAGNER;3;true;West Point Grey Academy;600m;false;2;15;Shot Put;true;1;12
+641;Lucas;RUCCHIN;6;true;West Point Grey Academy;100m;false;3;7
+642;Owen;QU;4;true;West Point Grey Academy;60m;false;2;6;High Jump;true;1;3;Shot Put;true;1;18
+643;Maggie;YOUNG;3;false;West Point Grey Academy;60m;false;3;6;Shot Put;true;1;9
+644;MAdison;WEBSTER;6;false;West Point Grey Academy;300m;false;1;7
+645;Andrew;ZHU;4;true;West Point Grey Academy;60m;false;5;5;100m;false;4;1;600m;false;2;2
+646;Mila;PIMSTONE;4;false;West Point Grey Academy;60m;false;5;1;100m;false;2;3;600m;false;2;8;Long Jump;true;1;32
+647;Issac;DERKSEN;4;true;West Point Grey Academy;60m;false;1;5;100m;false;2;5;High Jump;true;1;6
+648;Dylan;BOWLES;6;true;West Point Grey Academy;100m;false;3;4;200m;false;4;7;Long Jump;true;1;12
+649;Fynn;HAWKEY;3;true;West Point Grey Academy;Shot Put;true;1;23
+650;Ben;CAMPBELL;5;true;West Point Grey Academy;60m;false;4;2;Long Jump;true;1;15
+651;Timothy;LO;3;true;West Point Grey Academy;60m;false;3;5;Long Jump;true;1;17
+652;Spencer;NEIL;7;true;West Point Grey Academy;800m;false;2;6;1,200m;false;1;2;Long Jump;true;1;8
+653;Rory;WALSH;6;true;West Point Grey Academy;100m;false;5;5;200m;false;1;5;Long Jump;true;1;18;Shot Put;true;1;23
+654;Andrews;ASHLEY;6;false;West Point Grey Academy;100m;false;1;4
+655;Ava;SHATZKO;3;false;West Point Grey Academy;60m;false;3;8;100m;false;4;2;Shot Put;true;1;5
+656;Leo;FRANKEL;3;true;West Point Grey Academy;60m;false;5;5;100m;false;2;6;600m;false;1;14
+657;Miller;DABBS;5;true;West Point Grey Academy;600m;false;1;8;1,000m;false;1;4;Shot Put;true;1;17
+658;George;NAKHUDA;5;true;West Point Grey Academy;60m;false;2;7;High Jump;true;1;17;Shot Put;true;1;15
+659;Kira;GWADRY;6;false;West Point Grey Academy;100m;false;3;2;High Jump;true;1;19
+660;Amber;SALMAN;3;false;West Point Grey Academy;60m;false;8;3;100m;false;6;7
+661;Addison;JONES;3;false;West Point Grey Academy;60m;false;2;6;100m;false;3;5;600m;false;1;1;Long Jump;true;1;3
+662;Shannon;GADALLA;5;false;West Point Grey Academy;600m;false;1;8;1,000m;false;1;11;Shot Put;true;1;15
+663;Nicholas;VOLFBEYN;5;true;West Point Grey Academy;600m;false;1;12;1,000m;false;1;13;Shot Put;true;1;13
+664;Stella;WATSON;3;false;West Point Grey Academy;600m;false;1;12;Long Jump;true;1;15
+665;Lucy;FINLAYSON;5;false;West Point Grey Academy;60m;false;3;4;1,000m;false;1;3;Long Jump;true;1;5
+666;Karlos;TSE;3;true;West Point Grey Academy;60m;false;7;4;100m;false;4;5;Long Jump;true;1;16
+667;Rachel;MILAU;4;false;West Point Grey Academy;60m;false;6;5;100m;false;4;5;600m;false;1;9
+668;Lachlan;JANZEN;3;true;West Point Grey Academy;60m;false;5;1;100m;false;5;1;Long Jump;true;1;12
+669;Libby;DABBS;6;false;West Point Grey Academy;100m;false;3;5;200m;false;3;3;800m;false;2;10
+670;Melody;PENG;5;false;West Point Grey Academy;60m;false;4;4;Shot Put;true;1;16
+671;Adrian;LEE;4;true;West Point Grey Academy;100m;false;6;7;1,000m;false;1;9;Shot Put;true;1;15
+672;Yuling;SONG;3;false;West Point Grey Academy;600m;false;1;5;1,000m;false;1;2;High Jump;true;1;25
+673;Lucy;PASHBY;4;false;West Point Grey Academy;60m;false;1;3;100m;false;1;4;Long Jump;true;1;14
+674;Nolan;TAYLOR;3;true;West Point Grey Academy;High Jump;true;1;6;Shot Put;true;1;21
+675;Beaumont;PANTAGES;4;true;West Point Grey Academy;60m;false;1;7;100m;false;4;2
+676;Mary;NEILL;4;false;West Point Grey Academy;60m;false;4;5;100m;false;6;5;Shot Put;true;1;24
+677;Mattias;CHERNIAK;5;true;West Point Grey Academy;60m;false;2;2;100m;false;3;5;Long Jump;true;1;8
+678;Pippa;TOMITA;6;false;West Point Grey Academy;100m;false;7;8;300m;false;1;1;800m;false;2;6
+679;Ann;WANG;4;false;West Point Grey Academy;60m;false;5;7;100m;false;5;4;1,000m;false;1;3
+680;Kara;LO;5;false;West Point Grey Academy;60m;false;5;1;100m;false;5;3
+682;Sam;ANTHONY;7;true;West Point Grey Academy;200m;false;1;1;High Jump;true;1;7;Long Jump;true;1;1
+683;Cole;CHUA;4;true;West Point Grey Academy;60m;false;6;8;100m;false;3;3;Long Jump;true;1;15
+684;Elisse;SZUCS;3;false;West Point Grey Academy;60m;false;2;2;100m;false;6;8;High Jump;true;1;17;Long Jump;true;1;23
+685;Rebecca;HAM;6;false;West Point Grey Academy;100m;false;5;7
+686;Maya;FRANKEL;5;false;West Point Grey Academy;60m;false;1;5;100m;false;5;5;600m;false;2;5
+687;Lauren;LIANG;5;false;West Point Grey Academy;60m;false;2;1;Long Jump;true;1;15
+688;Coco;CLEMENT;6;false;West Point Grey Academy;100m;false;6;4;200m;false;5;3;300m;false;1;2;800m;false;2;2
+689;Mason;CHU;6;true;West Point Grey Academy;100m;false;5;1
+690;Julianna;WOOLFENDEN;4;false;West Point Grey Academy;600m;false;1;2;Long Jump;true;1;2
+691;Kamryn;GAWDRY;4;true;West Point Grey Academy;60m;false;2;8;1,000m;false;1;13;High Jump;true;1;8
+692;Leila;LAMMAM;4;false;West Point Grey Academy;60m;false;6;7;Long Jump;true;1;12;Shot Put;true;1;5
+693;Troy;GADALLA;4;true;West Point Grey Academy;60m;false;6;7;100m;false;2;2;600m;false;2;7
+694;Alexander;WITTSTOCK;5;true;West Point Grey Academy;100m;false;2;3;High Jump;true;1;18;Shot Put;true;1;18
+695;Ryan;ZHANG;3;true;West Point Grey Academy;60m;false;7;7;100m;false;2;8
+696;Dane;SUNG;5;true;West Point Grey Academy;60m;false;2;3;100m;false;3;7;High Jump;true;1;21
+697;Tommy;GIBSON;5;true;West Point Grey Academy;600m;false;1;9;1,000m;false;1;12;High Jump;true;1;8;Shot Put;true;1;11
+698;Ryan;HOWARD;3;true;West Point Grey Academy;100m;false;4;7;600m;false;1;6;1,000m;false;1;4;High Jump;true;1;2
+699;Avery;CARADONNA;3;false;West Point Grey Academy;60m;false;6;3;600m;false;1;7;High Jump;true;1;12
+700;Reece;BREWER;4;false;West Point Grey Academy;60m;false;3;3;100m;false;6;6;High Jump;true;1;9
+701;Cameron;STANGER;4;true;West Point Grey Academy;60m;false;2;3;100m;false;4;7;High Jump;true;1;18
+702;Mary;SCHEMLKE-HAAGENSON;6;false;West Point Grey Academy;300m;false;2;2;800m;false;1;3;1,200m;false;1;6
+703;Sam;AULD;4;true;West Point Grey Academy;60m;false;4;4;100m;false;6;6;Long Jump;true;1;20
+704;Madeleine;VOLFBEYN;7;false;West Point Grey Academy;100m;false;5;3;Long Jump;true;1;19
+705;Erica;CHANG;6;false;West Point Grey Academy;100m;false;8;8;Shot Put;true;1;29
+706;Rose;FINLAYSON;3;false;West Point Grey Academy;600m;false;2;5;1,000m;false;1;11;Long Jump;true;1;5
+707;Nicholas;CANNON;3;true;West Point Grey Academy;Shot Put;true;1;24
+708;Nate;LEVY;4;true;West Point Grey Academy;60m;false;6;3;100m;false;1;7
+709;Tej;GILL;4;true;West Point Grey Academy;60m;false;2;1;100m;false;1;6;600m;false;2;1;High Jump;true;1;19
+710;Callum;TAYLOR;6;true;West Point Grey Academy;Long Jump;true;1;4;Shot Put;true;1;26
+711;Michael;CACOS;3;true;West Point Grey Academy;1,000m;false;1;9;Long Jump;true;1;21;Shot Put;true;1;22
+712;Addison;BRYANT;4;false;West Point Grey Academy;60m;false;2;3;100m;false;2;8
+713;Jaden;WEBSTER;3;true;West Point Grey Academy;60m;false;7;2;Shot Put;true;1;29
+714;Noa;PULVER;7;false;West Point Grey Academy;100m;false;2;1;Long Jump;true;1;24
+715;Will;WHITE;7;true;West Point Grey Academy;Shot Put;true;1;16
+716;Damon;BURTON;4;true;West Point Grey Academy;600m;false;1;12;Shot Put;true;1;10
+717;Jacob;LEADER;6;true;West Point Grey Academy;300m;false;1;5;800m;false;1;6;1,200m;false;1;8
+718;Avery;AUSTIN;5;false;West Point Grey Academy;60m;false;1;4;100m;false;4;4;Long Jump;true;1;3
+719;Jack;WHITE;5;true;West Point Grey Academy;High Jump;true;1;12;Shot Put;true;1;19
+720;Isla;MASSEY;7;false;West Point Grey Academy;200m;false;1;6;800m;false;2;7;High Jump;true;1;3
+721;Jackson;BAXTER;5;true;St. Georges Junior School;Shot Put;true;1;12
+722;Eric;WITTIG;6;true;St. Georges Junior School;Shot Put;true;1;1
+723;David;XIA;7;true;St. Georges Junior School;100m;false;3;2;200m;false;2;2;300m;false;2;2
+724;Bradley;LI;3;true;St. Georges Junior School;60m;false;3;4;100m;false;5;4;600m;false;1;5;1,000m;false;1;7
+725;Marco;MONTALBANO;5;true;St. Georges Junior School;600m;false;2;9;1,000m;false;1;15
+726;Lennon;LAZARE;5;true;St. Georges Junior School;Shot Put;true;1;4
+727;Gilbert;GU;7;true;St. Georges Junior School;100m;false;1;6;200m;false;2;4;Long Jump;true;1;12
+728;Tomson;LUI;7;true;St. Georges Junior School;800m;false;1;7;1,200m;false;1;7
+729;Felix;SJOHOLM;3;true;St. Georges Junior School;60m;false;6;1;100m;false;1;2;High Jump;true;1;9;Long Jump;true;1;11
+730;Niko;PILLER;7;true;St. Georges Junior School;High Jump;true;1;12
+731;Teson;LUI;7;true;St. Georges Junior School;800m;false;2;5;1,200m;false;1;9
+732;Sehej;CHAGGAR;4;true;St. Georges Junior School;Shot Put;true;1;24
+733;Asher;RENTZ;3;true;St. Georges Junior School;60m;false;6;6;100m;false;4;6;600m;false;1;4;1,000m;false;1;8
+734;Valter;SEDIN;5;true;St. Georges Junior School;60m;false;2;6;100m;false;4;3;600m;false;1;5;1,000m;false;1;2;High Jump;true;1;1
+735;Darius;MARKAZI;6;true;St. Georges Junior School;Shot Put;true;1;4
+736;Cole;MEIKLE;5;true;St. Georges Junior School;Long Jump;true;1;9;Shot Put;true;1;9
+737;Geoffrey;YEE;6;true;St. Georges Junior School;100m;false;4;2;200m;false;1;7;300m;false;2;3
+738;Kian;HARVEY;3;true;St. Georges Junior School;60m;false;5;2;100m;false;5;7
+739;Jason;YIN;6;true;St. Georges Junior School;100m;false;6;5;200m;false;2;3;300m;false;2;5;Long Jump;true;1;16;Shot Put;true;1;14
+740;Alex;BOOTH;3;true;St. Georges Junior School;60m;false;4;8;100m;false;3;4;600m;false;2;2;1,000m;false;1;3;High Jump;true;1;12;Long Jump;true;1;23
+742;Gianluca;TOGNETTI;5;true;St. Georges Junior School;60m;false;4;5;100m;false;3;4
+743;Isaac;BROWN;6;true;St. Georges Junior School;100m;false;5;7;200m;false;4;4;300m;false;2;4;Long Jump;true;1;1
+744;Taggart;VAN BEEK;5;true;St. Georges Junior School;100m;false;2;6;600m;false;2;6;1,000m;false;1;18;Long Jump;true;1;7
+745;Jack;ZHANG;6;true;St. Georges Junior School;100m;false;4;1;200m;false;3;4;300m;false;2;7;High Jump;true;1;10
+746;Torsten;BLODGETT;6;true;St. Georges Junior School;800m;false;1;9;1,200m;false;1;2
+747;Stewart;COPLAND;7;true;St. Georges Junior School;Shot Put;true;1;1
+748;Henry;LAZARE;3;true;St. Georges Junior School;60m;false;1;1;100m;false;3;5
+749;Max;SHEN;5;true;St. Georges Junior School;60m;false;4;6;100m;false;1;6;Shot Put;true;1;7
+750;Henry;DUNSTAN;4;true;St. Georges Junior School;60m;false;1;1;100m;false;5;5;High Jump;true;1;13;Shot Put;true;1;5
+751;Tage;POONI;6;true;St. Georges Junior School;Shot Put;true;1;9
+752;George;CASSADY;5;true;St. Georges Junior School;60m;false;3;5;100m;false;2;4;600m;false;2;3;1,000m;false;1;14
+753;Aidan;SINCLAIR;7;true;St. Georges Junior School;300m;false;2;5;800m;false;1;6;1,200m;false;1;11;High Jump;true;1;11
+754;Andrew;CHEN;4;true;St. Georges Junior School;60m;false;5;3;100m;false;6;2;Long Jump;true;1;2
+755;Allen;GUO;7;true;St. Georges Junior School;Shot Put;true;1;15
+756;Graeme;CHILTON;7;true;St. Georges Junior School;100m;false;4;4;800m;false;2;8;1,200m;false;1;6
+757;Rain;ZHAI;7;true;St. Georges Junior School;Shot Put;true;1;6
+758;Willem;URBAN;3;true;St. Georges Junior School;60m;false;7;5;100m;false;3;7;600m;false;1;8;1,000m;false;1;1
+759;Ethan;HARI;6;true;St. Georges Junior School;Shot Put;true;1;11
+760;William;COOPER;4;true;St. Georges Junior School;600m;false;2;8;1,000m;false;1;12
+761;Reece;LIU;6;true;St. Georges Junior School;800m;false;1;1;1,200m;false;1;1
+762;Keaton;O'KENNEDY;6;true;St. Georges Junior School;100m;false;1;7;300m;false;2;1;800m;false;1;2
+763;Aiden;ZHOU;6;true;St. Georges Junior School;100m;false;2;3;800m;false;1;11;1,200m;false;1;13
+764;Kayden;KUSOMOTO;3;true;St. Georges Junior School;60m;false;4;4;100m;false;4;2;High Jump;true;1;14;Long Jump;true;1;15
+765;Evan;LI;4;true;St. Georges Junior School;Shot Put;true;1;21
+766;Han;WANG;4;true;Rui St. Georges Junior School;Shot Put;true;1;13
+767;Joey;DELESALLE;4;true;St. Georges Junior School;600m;false;2;11;1,000m;false;1;15
+768;Ronan;MAHAFFY;7;true;St. Georges Junior School;Shot Put;true;1;11
+769;Cole;MAY;5;true;St. Georges Junior School;60m;false;1;8;100m;false;5;4
+770;Markus;TANG;6;true;St. Georges Junior School;100m;false;3;6;Long Jump;true;1;21
+771;Edward;TAN;4;true;St. Georges Junior School;100m;false;4;8;Long Jump;true;1;27
+772;Markus;KUSOMOTO;3;true;St. Georges Junior School;60m;false;1;2;100m;false;3;2;Long Jump;true;1;24
+773;William;SKENE;5;true;St. Georges Junior School;High Jump;true;1;4
+774;Will;WU;6;true;St. Georges Junior School;Long Jump;true;1;11
+775;Zachary;ZHANG;4;true;St. Georges Junior School;60m;false;6;5;100m;false;3;5;High Jump;true;1;5
+776;Beck;YOUNG;7;true;St. Georges Junior School;100m;false;4;1;200m;false;3;1;Long Jump;true;1;4
+777;Jack;REDPATH;4;true;St. Georges Junior School;60m;false;4;7;100m;false;7;5;600m;false;2;3;1,000m;false;1;14;Long Jump;true;1;7;Shot Put;true;1;23
+778;Blake;WARDELL;7;true;St. Georges Junior School;High Jump;true;1;1;Long Jump;true;1;11
+779;Sasha;TUCAKOV;6;true;St. Georges Junior School;Shot Put;true;1;2
+780;Jeff;SHEN;4;true;St. Georges Junior School;60m;false;3;4;100m;false;5;3
+781;Charlie;JOHNSTON;4;true;St. Georges Junior School;60m;false;4;6;100m;false;5;8;600m;false;1;3;1,000m;false;1;7;Long Jump;true;1;24
+782;Adrian;WONG;4;true;St. Georges Junior School;60m;false;5;4;100m;false;7;6;1,000m;false;1;6;High Jump;true;1;22;Long Jump;true;1;13
+783;Ian;CRAWFORD;6;true;St. Georges Junior School;High Jump;true;1;8;Long Jump;true;1;29
+784;Roman;SIMMONS;4;true;St. Georges Junior School;60m;false;3;7;100m;false;5;1;600m;false;1;1;High Jump;true;1;15;Long Jump;true;1;17
+785;Christiaan;OOSTHUIZEN;7;true;St. Georges Junior School;100m;false;1;7;300m;false;2;6;Shot Put;true;1;2
+786;Aidan;HOWARD;3;true;St. Georges Junior School;High Jump;true;1;10;Long Jump;true;1;18
+787;Michael;LI;7;true;St. Georges Junior School;100m;false;3;1;200m;false;1;6;300m;false;1;2;Long Jump;true;1;3;Shot Put;true;1;10
+788;Allan;CRAWFORD;3;true;St. Georges Junior School;60m;false;2;7;100m;false;5;5
+789;Jameson;CHAN;6;true;St. Georges Junior School;800m;false;1;5;1,200m;false;1;6;Long Jump;true;1;10
+790;Joshua;COLEMAN;7;true;St. Georges Junior School;100m;false;4;6;200m;false;2;1;300m;false;2;3
+791;Caden;MAH;5;true;St. Georges Junior School;High Jump;true;1;16;Long Jump;true;1;11
+792;Charlie;MCCONVILLE;6;true;St. Georges Junior School;100m;false;4;8;800m;false;1;7;1,200m;false;1;7
+793;Zachary;LO;7;true;St. Georges Junior School;100m;false;3;7;200m;false;1;4;800m;false;2;2;High Jump;true;1;13;Long Jump;true;1;6
+794;Harris;BOOMER;4;true;St. Georges Junior School;100m;false;5;7;600m;false;2;4;1,000m;false;1;17;High Jump;true;1;1
+795;Liam;TURNBULL;6;true;St. Georges Junior School;100m;false;3;3;200m;false;3;5;300m;false;1;4
+796;Denny;BAO;6;true;St. Georges Junior School;200m;false;2;2;300m;false;2;6;800m;false;1;3;1,200m;false;1;10
+797;Dylan;SHERWOOD;6;true;St. Georges Junior School;Shot Put;true;1;12
+798;Jesse;FADER;7;true;St. Georges Junior School;100m;false;4;5;200m;false;2;7;300m;false;2;4
+799;Oliver;SJOHOLM;5;true;St. Georges Junior School;60m;false;1;1;100m;false;3;6;600m;false;1;10;High Jump;true;1;9;Long Jump;true;1;10
+800;Declan;KIRKER;3;true;St. Georges Junior School;600m;false;2;12;1,000m;false;1;16;High Jump;true;1;16;Long Jump;true;1;8
+801;Ben;MAIJER;5;true;St. Georges Junior School;100m;false;3;3;600m;false;1;2;1,000m;false;1;17;Long Jump;true;1;24;Shot Put;true;1;1
+802;Bijan;MARKAZI;4;true;St. Georges Junior School;Shot Put;true;1;1
+803;Mac;REYNOLDS;5;true;St. Georges Junior School;High Jump;true;1;2;Long Jump;true;1;1
+804;Maxwell;COOK;7;true;St. Georges Junior School;High Jump;true;1;4
+805;Adam;RENTZ;7;true;St. Georges Junior School;300m;false;1;3;800m;false;2;1;1,200m;false;1;8;Long Jump;true;1;13
+806;Jordyn;REED;7;false;Vancouver Thunderbirds;100m;false;2;4;200m;false;2;7;Long Jump;true;1;26
+807;Pavi;BOUSALIS;7;true;Vancouver College;100m;false;3;8;300m;false;2;1
+808;Akasha;CHAMBERLAND;5;false;Unattached;60m;false;4;1;100m;false;4;1;600m;false;1;14
+810;Aussia;TOWFIGH;7;true;West Point Grey Academy;Long Jump;true;1;36;Shot Put;true;1;38
+811;Max;WONG;6;true;West Point Grey Academy;100m;false;6;4;200m;false;2;8
+812;Sachin;SIDHU;5;true;West Point Grey Academy;600m;false;1;11;1,000m;false;1;19
+813;Tristan;YUNG;6;false;York House School;100m;false;1;8;200m;false;1;8;800m;false;1;11
+814;Ryka;FARSHCHIAN;5;false;York House School;60m;false;3;8;100m;false;3;8;600m;false;1;15
+815;Mackenzie;WONG;3;false;York House School;60m;false;9;3;100m;false;1;8
+816;Nathan;GU;6;true;St. Georges Junior School;100m;false;6;3;200m;false;1;8;300m;false;1;8
+817;Jack;YI;4;true;St. Georges Junior School;Shot Put;true;1;26
+818;Santi;BRODIE;7;true;St. Georges Junior School;800m;false;2;9;1,200m;false;1;12
+819;Elijah;CLARKE;4;true;Vancouver Thunderbirds;600m;false;1;14;1,000m;false;1;20;High Jump;true;1;24;Long Jump;true;1;29
+820;Zoe;MATTHIESEN;6;false;St. John's School;100m;false;4;1;200m;false;2;8;300m;false;2;1
+821;Olivia;WITTSTOCK;3;false;West Point Grey Academy;60m;false;9;4;100m;false;2;1;High Jump;true;1;27;Long Jump;true;1;37
+822;Zoe;ZHANG;7;false;UBC;1,200m;false;1;1
+823;Kenny;HO;7;false;UBC;1,200m;false;1;1
+824;Nathan;DOWNEY;7;false;UBC;1,200m;false;1;3
+825;Colis;CHENG;7;false;Unattached;1,200m;false;1;2
+826;Cassidy;CARDLE;7;false;Unattached;1,200m;false;1;2
+827;Johnny;TSE;7;false;Unattached;1,200m;false;1;4
+828;Joanna;YU;7;false;Unattached;1,200m;false;1;3
+829;Daniel;SOLIVEN;7;false;Unattached;1,200m;false;1;5
+830;Kyra;DANIELSON;7;false;Unattached;1,200m;false;1;4
+831;Joean;LU;7;false;Unattached;1,200m;false;1;5
+832;Caleb;CHENG;7;false;Unattached;1,200m;false;1;2
