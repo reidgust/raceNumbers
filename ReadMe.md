@@ -18,6 +18,17 @@ https://java.com/en/download/
 
 https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
 
+First, clone this repository to your computer, and then navigate to that folder.
+
+If you are on a Windows Machine:
+1) Change all the .sh filenames to .bat
+2) You run them by double clicking them
+
+If you are on a Mac:
+1) Open up a terminal and navigate to this folder using the cd command
+2) You run the .sh files by typing the name of it with “./“ immediately before then pressing enter. EX: “./ElemNumbers.sh”
+3) If it says something about being denied permission type “chmod 755 FileName.sh” and press enter. Then try again. 
+
 In addition to the .jar and all the .sh files make sure the following files are present and renamed to match exactly:
 1) “Official Logo.png”
 2) “Heat Sheets.pdf”      (For Elementary)
@@ -45,11 +56,3 @@ The processes are broken in two parts because that way you can change the .txt f
 ![](gifs/TwoFirstNames.gif)
 
 If there are compilation errors, consult the demo files and make sure that that the MeetPro report matches the format of the report you are using on things like the naming of events. Make sure they have the same structure, lots of the program hangs on how and where “Grade x” is displayed. 
-
-If you are on a Windows Machine:
-1) Change all the .sh filenames to .bat
-2) You run them by double clicking them
-If you are on a Mac:
-1) Open up a terminal and navigate to this folder using the cd command
-2) You run the .sh files by typing the name of it with “./“ immediately before then pressing enter. EX: “./ElemNumbers.sh”
-3) If it says something about being denied permission type “chmod 755 FileName.sh” and press enter. Then try again. 
